@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" width="1024" height="1024">
+<!-- Concept A, The Tag. 24-unit grid from 02-brand 4.3, scale 30.232 px/unit (tag 21u = 62% = 635px), grid centre at (512,491.5) = 2% above centre. Vertices (15,1.5)(19.5,6)(19.5,22.5)(4.5,22.5)(4.5,6)(9,1.5), tangent-arc radii 1.5u shoulders / 3u bottom. Eyelet centre (12,7.5) = (512.0,355.5); icon optical tweak: ring r 3.75u (113.4px), pupil r 1.6u (48.4px), gap 65px. Even-odd fill: pupil same white as the tag. -->
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3F4EDB"/><stop offset="1" stop-color="#1B2585"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<path fill="#FFFFFF" fill-rule="evenodd" d="M512 174.08L583.91 174.08A45.35 45.35 0 0 1 615.98 187.36L725.46 296.84A45.35 45.35 0 0 1 738.74 328.91L738.74 718.26A90.7 90.7 0 0 1 648.05 808.96L375.95 808.96A90.7 90.7 0 0 1 285.26 718.26L285.26 328.91A45.35 45.35 0 0 1 298.54 296.84L408.02 187.36A45.35 45.35 0 0 1 440.09 174.08ZM398.63 355.47A113.37 113.37 0 1 0 625.37 355.47A113.37 113.37 0 1 0 398.63 355.47ZM463.63 355.47A48.37 48.37 0 1 0 560.37 355.47A48.37 48.37 0 1 0 463.63 355.47Z"/>
+</svg>

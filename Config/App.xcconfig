@@ -1,0 +1,10 @@
+// Build settings shared by every configuration of the app target.
+//
+// Secrets never live in this file. Copy Secrets.example.xcconfig to
+// Secrets.xcconfig (git-ignored) and put real values there. The include is
+// optional, so a fresh clone still builds: the app simply runs without the
+// backend gate value.
+
+APP_SHARED_SECRET =
+
+#include? "Secrets.xcconfig"

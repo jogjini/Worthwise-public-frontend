@@ -1,0 +1,20 @@
+# App Store screenshots: raw captures. Run screenshots/generate.sh rather than this alone.
+project "./CollectibleScanner.xcodeproj"
+scheme "CollectibleScannerScreenshots"
+
+# 6.9" iPhone (1320 x 2868), the size App Store Connect asks for; it scales the
+# smaller sizes from it. The app is iPhone only, so no iPad.
+devices ["Worthwise Shots 6.9in"] # a dedicated iPhone 17 Pro Max simulator (generate.sh creates it); erase_simulator wipes it
+languages ["en-US"]
+
+output_directory "./screenshots/.snapshot" # intermediate; generate.sh copies into screenshots/raw/
+clear_previous_screenshots true
+override_status_bar true
+override_status_bar_arguments "--time 9:41 --dataNetwork wifi --wifiMode active --wifiBars 3 --cellularMode active --cellularBars 4 --batteryState discharging --batteryLevel 100"
+erase_simulator true
+reinstall_app true
+app_identifier "com.johan.collectiblescanner"
+derived_data_path "./.derived"
+skip_open_summary true
+concurrent_simulators false
+stop_after_first_error true

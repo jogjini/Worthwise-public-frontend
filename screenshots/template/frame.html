@@ -1,0 +1,41 @@
+<!doctype html>
+<!-- One App Store frame. compose.py fills the {{...}} slots. Style: screenshots/PLAN.md, "Style guide". -->
+<html><head><meta charset="utf-8"><style>
+@font-face { font-family: "Inter"; src: url("fonts/InterVariable.woff2") format("woff2"); font-weight: 100 900; }
+:root {
+  --bg-top: #1B2585; --bg-bottom: #0B0F3D;   /* brandInk -> the dark icon's bottom */
+  --ink: #FFFFFF; --ink-2: #C9CEFF; --ink-3: #9AA2E6; --accent: #8E9AFF;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1320px; height: 2868px; overflow: hidden; }
+body {
+  font-family: "Inter", system-ui, sans-serif; position: relative;
+  background: radial-gradient(900px 1100px at 50% 1500px, rgba(63,78,219,.45), transparent 70%),
+              linear-gradient(180deg, var(--bg-top) 0%, var(--bg-bottom) 100%);
+  background-color: var(--bg-top);
+}
+.mark { position: absolute; left: 633px; top: 84px; width: 54px; height: 76px; }
+.text { position: absolute; left: 96px; right: 96px; top: 180px; text-align: center; }
+h1 { font-weight: 700; font-size: 108px; line-height: 114px; letter-spacing: -0.025em; color: var(--ink); }
+h1 em { font-style: normal; color: var(--accent); }
+p.sub { margin-top: 28px; font-size: 50px; line-height: 64px; color: var(--ink-2); white-space: nowrap; }
+.phone {
+  position: absolute; left: 101px; top: 620px; width: 1118px; height: 2388px;
+  border-radius: 170px; background: #000; padding: 18px;
+  box-shadow: 0 0 0 2px rgba(201,206,255,.20), 0 48px 120px rgba(4,6,30,.65);
+}
+.screen { width: 1082px; height: 2352px; border-radius: 152px; overflow: hidden; position: relative; background: #fff; }
+.screen img { width: 100%; height: 100%; display: block; }
+.island { position: absolute; left: 50%; top: 27px; width: 310px; height: 91px; margin-left: -155px; border-radius: 46px; background: #000; }
+.fade { position: absolute; left: 0; right: 0; top: 2580px; bottom: 0; background: linear-gradient(180deg, rgba(11,15,61,0) 0px, #0B0F3D 180px); }
+/* Scrolled frames: the clean status bar from frame 01 over the content that scrolled under it. */
+.veil { position: absolute; left: 0; top: 0; width: 1082px; height: 160px; background-size: 1082px auto; background-repeat: no-repeat;
+        -webkit-mask-image: linear-gradient(180deg, #000 120px, transparent 160px); }
+.foot { position: absolute; left: 0; right: 0; top: 2750px; text-align: center; font-weight: 500; font-size: 36px; line-height: 48px; letter-spacing: 0.36px; color: var(--ink-3); }
+</style></head><body>
+{{MARK}}
+<div class="text"><h1>{{HEADLINE}}</h1>{{SUB}}</div>
+<div class="phone"><div class="screen"><img src="{{SCREEN}}">{{VEIL}}<div class="island"></div></div></div>
+<div class="fade"></div>
+{{FOOT}}
+</body></html>

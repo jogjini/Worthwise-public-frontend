@@ -1,0 +1,4823 @@
+[
+ {
+  "image": "DemoCoin",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:50:19.865Z",
+  "datasetID": "coin-cma-99067",
+  "photo": "Cleveland Museum of Art, Open Access (CC0)",
+  "photoSource": "https://clevelandart.org/art/1918.679",
+  "response": {
+   "title": "Japan Edo Period 1835–1870 Tenpo Tsuho 100 Mon Coin",
+   "itemName": "Tenpō Tsūhō 100 Mon",
+   "category": "Coin",
+   "brand": null,
+   "year": null,
+   "modelNumber": null,
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": null,
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": {
+    "catalogReference": "KM# C# 7",
+    "denomination": "100 Mon",
+    "diameterMm": null,
+    "exergue": null,
+    "metal": "Bronze",
+    "mintMark": null,
+    "obverseLegend": "天保通寶",
+    "obverseType": "Vertical inscription 'Tenpo' above square center hole, 'Tsuho' below",
+    "periodApprox": "1835–1870",
+    "reverseLegend": null,
+    "reverseType": null,
+    "ruler": "Tokugawa Shogunate",
+    "weightG": null
+   },
+   "ceramic": null,
+   "detectedText": [],
+   "confidence": 0.95,
+   "valueLow": 15.5,
+   "valueHigh": 36,
+   "valueConfidence": 0.39,
+   "valueMid": 24,
+   "priceBasis": "asking",
+   "priceSummary": "From 3 listings (listings counted below their asking price)",
+   "evidenceCount": 3,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 61,
+    "average": 29.97,
+    "median": 26.99,
+    "low": 15.49,
+    "high": 75,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 2,
+    "bestOfferExcluded": true,
+    "removedOutliers": 1,
+    "newest": "2026-10-18",
+    "oldest": "2026-07-25",
+    "ebayFloorExcluded": false,
+    "match": "exact",
+    "sales": [
+     {
+      "date": "2026-10-18",
+      "price": 19,
+      "currency": "USD",
+      "title": "Japan 1835 Tenpo Tsuho 100 Mon Bronze Oval Cash Coin Edo Samurai Choice Pick",
+      "url": "https://www.ebay.com/itm/206630865560?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 41.02,
+      "currency": "USD",
+      "title": "JAPAN - Tempo Tsuho - 100 Mon - 1835-1870 - C#7 - Large Bronze Coin!",
+      "url": "https://www.ebay.com/itm/366677070289?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 28.41,
+      "currency": "USD",
+      "title": "Japan Tenpo Tsuho 100 Mon Coin 1835-1870 Tokugawa Shogunate Samurai Era",
+      "url": "https://www.ebay.com/itm/900004373962?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-10",
+      "price": 64.44,
+      "currency": "USD",
+      "title": "Japan Tenpo Tsuho 100 Mon Edo Period Bronze Cash Coin 19.7g 1835-1870",
+      "url": "https://www.ebay.com/itm/298695651546?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-09",
+      "price": 30.89,
+      "currency": "USD",
+      "title": "2 Japanese 100 Mon Bronze Oval Coin Square Hole 1835-1870 Tempo Tsuho S4",
+      "url": "https://www.ebay.com/itm/920002202309?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-08",
+      "price": 38.4,
+      "currency": "USD",
+      "title": "JAPAN - 100 Mon - Tempo Tsuho - (ND)1835-1870 - Shogunate Large Bronze Coin",
+      "url": "https://www.ebay.com/itm/362481906537?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-04",
+      "price": 50.77,
+      "currency": "USD",
+      "title": "Japan Tenpo Tsuho 100 Mon Old Antique Coin 1835-1870 Edo Bronze Oval",
+      "url": "https://www.ebay.com/itm/357259616688?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-03",
+      "price": 37,
+      "currency": "USD",
+      "title": "【5 pcs】　JAPAN　Tenpōtsūhō 100 Mon (1835-71)　　C# 7　　42-A8029",
+      "url": "https://www.ebay.com/itm/336478086551?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-03",
+      "price": 37.15,
+      "currency": "USD",
+      "title": "Japanese c.1830-1866: Tempo Tsuho 100 Mon Coin, FREE SHIPPING!!!!!!!!!",
+      "url": "https://www.ebay.com/itm/800055902894?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-30",
+      "price": 32.75,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old Japanese Coin Edo Period 100 mon 1835 - 1890",
+      "url": "https://www.ebay.com/itm/327377533785?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-25",
+      "price": 35.41,
+      "currency": "USD",
+      "title": "1835-70 Tenpo Tsuho, Edo Meiji Period Big Bronze 100 Mon - Japanese Antique Coin",
+      "url": "https://www.ebay.com/itm/117358244916?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-24",
+      "price": 36.18,
+      "currency": "USD",
+      "title": "Japan Tenpo Tsuho 100 Mon Oval Coin 天保通寶 1835-1870 Edo Period SL",
+      "url": "https://www.ebay.com/itm/128094938691?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-18",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820124022384?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-18",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820123856202?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-18",
+      "price": 32.75,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/327350867258?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-16",
+      "price": 33.02,
+      "currency": "USD",
+      "title": "Japan Old Antique 100 Mon Coin Tempo Tsuho (1835-1870) Edo Period. MG",
+      "url": "https://www.ebay.com/itm/188885709374?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-15",
+      "price": 30.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820112930586?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-13",
+      "price": 27.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820102411267?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-10",
+      "price": 23,
+      "currency": "USD",
+      "title": "Japan 1835-1870 Tenpo Tsūhō 100 Mon Coin Edo Samurai Era 1pc",
+      "url": "https://www.ebay.com/itm/168150016248?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-09",
+      "price": 37.09,
+      "currency": "USD",
+      "title": "Japan: 100 Mon (Tenpo Tsuho) Bronze - XF",
+      "url": "https://www.ebay.com/itm/800555086470?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": null
+     },
+     {
+      "date": "2026-09-08",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820084865729?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-08",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820084788991?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 24.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820080637214?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 26.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820080782388?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 26.99,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820080905076?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 23.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820075939674?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820075987090?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 25.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820076214370?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 26.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820076189276?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 26.99,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820076377982?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 27.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820076251535?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-06",
+      "price": 27.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820076305912?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-05",
+      "price": 20.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820071765991?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-05",
+      "price": 21.76,
+      "currency": "USD",
+      "title": "Very Nice 1835-70 Japan 100 Mon Tempo Tsuho Bronze Coin Natural Toning Overall",
+      "url": "https://www.ebay.com/itm/147535861551?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-31",
+      "price": 24.59,
+      "currency": "USD",
+      "title": "Japan Tenpo Tsuho 100 Mon Coin 1835-1870 Edo Period Bronze 20.24g",
+      "url": "https://www.ebay.com/itm/298613010660?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-30",
+      "price": 18,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 005 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/327325886699?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-30",
+      "price": 19,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 006 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/227492598791?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-30",
+      "price": 36.07,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820048226092?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-29",
+      "price": 75,
+      "currency": "USD",
+      "title": "Free Shipping Bronze TENPO-TSUHO Japan EDO 100 mon (1835 - 1890) 5 Piece Set H",
+      "url": "https://www.ebay.com/itm/227236060340?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-28",
+      "price": 17.04,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820039826736?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-28",
+      "price": 21.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820039763267?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-28",
+      "price": 23.04,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820039491940?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-27",
+      "price": 15.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820034790974?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-27",
+      "price": 19.37,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820036277116?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-27",
+      "price": 64.15,
+      "currency": "USD",
+      "title": "1835-70 Tenpo Tsuho, Edo Meiji Period Big Bronze 100 Mon - Japanese Antique Coin",
+      "url": "https://www.ebay.com/itm/147172393715?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-26",
+      "price": 15.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820033289260?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-25",
+      "price": 18.49,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820029518409?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-25",
+      "price": 31.74,
+      "currency": "USD",
+      "title": "1863 Japan Tenpo Tsuho 100 Mon GBCA 92 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/820029071746?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-23",
+      "price": 19,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 002 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/327235471122?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-23",
+      "price": 22,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 003 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/227485662324?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-20",
+      "price": 19,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 004 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/327299510673?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-20",
+      "price": 31.6,
+      "currency": "USD",
+      "title": "【5 pcs】　JAPAN　Tenpōtsuhō 100 Mon (1835-71)　　C# 7　　VF Minus　　42-A9074",
+      "url": "https://www.ebay.com/itm/336736645472?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-20",
+      "price": 44.53,
+      "currency": "USD",
+      "title": "Japan Tenpōtsūhō 100 Mon\" (1835-1871) 49mm x 32mm 20Gms ONE COIN Circulated",
+      "url": "https://www.ebay.com/itm/267248652204?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-07",
+      "price": 33.36,
+      "currency": "USD",
+      "title": "Japan 100 Mon Tenpo Tsuho Bronze Coin 1835-70 Tenpotsuho",
+      "url": "https://www.ebay.com/itm/128013210571?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-03",
+      "price": 40.99,
+      "currency": "USD",
+      "title": "1835 Japan Tenpo Tsuho 100 Mon Oval Cash Coin Edo Huaxia 88 Certified.",
+      "url": "https://www.ebay.com/itm/398246303034?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "New (Other)"
+     },
+     {
+      "date": "2026-08-02",
+      "price": 28.03,
+      "currency": "USD",
+      "title": "1835-1870 Japan 100 Mon Circulated Bronze Coin Ten-ho Japanese Tenpō Era",
+      "url": "https://www.ebay.com/itm/198525299108?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-01",
+      "price": 19,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 001 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/227450688225?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-30",
+      "price": 37.79,
+      "currency": "USD",
+      "title": "Japan, Tempo Tsuho 100 Mon, ND (1835-70), XF",
+      "url": "https://www.ebay.com/itm/336705185423?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-27",
+      "price": 22,
+      "currency": "USD",
+      "title": "Bronze TENPO-TSUHO Japan Old coin Japanese 003 EDO 100 mon (1835 - 1890)",
+      "url": "https://www.ebay.com/itm/327253310014?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-26",
+      "price": 33.49,
+      "currency": "USD",
+      "title": "1863 Japan Bunkyu 3 Tenpo Tsuho 100 Mon GBCA 90 Bronze Coin UNC",
+      "url": "https://www.ebay.com/itm/358827915541?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "catalogMatched",
+   "comparableMatch": "exact",
+   "attributes": [
+    {
+     "label": "Denomination",
+     "value": "100 Mon"
+    },
+    {
+     "label": "Metal",
+     "value": "Bronze"
+    },
+    {
+     "label": "Ruler",
+     "value": "Tokugawa Shogunate"
+    },
+    {
+     "label": "Period",
+     "value": "1835–1870"
+    },
+    {
+     "label": "Obverse",
+     "value": "Vertical inscription 'Tenpo' above square center hole, 'Tsuho' below"
+    },
+    {
+     "label": "Obverse legend",
+     "value": "天保通寶"
+    },
+    {
+     "label": "Reference",
+     "value": "KM# C# 7"
+    }
+   ],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay US",
+     "price": 25.73,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Japan Tenpo Tsuho 100 Mon Bronze Coin Tokugawa Shogunate",
+     "url": "https://www.ebay.com/itm/336690780978?_skw=Tokugawa+Shogunate+100+Mon+Bronze&hash=item4e64559b32:g:W1gAAeSw6JVqWEAm"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 29.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Japan Tenpo Tsuho 100 Mon 1835-1870 Edo Samurai Era Oval Bronze Coin J Street",
+     "url": "https://www.ebay.com/itm/257802268349?hash=item3c06366ebd:g:RtUAAeSwAsVq0ui9"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 69,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "1835-70 Tenpo Tsuho, Edo Meiji Period Big Bronze 100 Mon - Japanese Antique Coin",
+     "url": "https://www.ebay.com/itm/205884344259?hash=item2fefa9c7c3:g:m3EAAeSwWBVpK3T-"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoJug",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:51:14.090Z",
+  "datasetID": "ceramic-cma-110898",
+  "photo": "Cleveland Museum of Art, Open Access (CC0)",
+  "photoSource": "https://clevelandart.org/art/1929.416.1",
+  "response": {
+   "title": "English Copper and Pink Lustre Relief-Decorated Jug, c. 1820–1840",
+   "itemName": "Copper Lustre Relief Jug",
+   "category": "Unknown",
+   "brand": null,
+   "year": 1830,
+   "modelNumber": null,
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": "Copper and pink lustre with white sprigged relief",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": {
+    "body": "earthenware",
+    "countryOfOrigin": "England, likely Staffordshire (style; mark not visible)",
+    "decorationTechnique": "copper lustre and pink lustre glaze with applied white sprigged relief",
+    "form": "jug",
+    "glaze": "copper lustre, pink lustre",
+    "heightCm": null,
+    "makersMark": "Base not visible in photograph",
+    "periodApprox": "c. 1820–1840 (style)"
+   },
+   "detectedText": [],
+   "confidence": 0.55,
+   "valueLow": 21,
+   "valueHigh": 120,
+   "valueConfidence": 0.45,
+   "valueMid": 42,
+   "priceBasis": "estimate",
+   "priceSummary": "AI estimate, checked against 5 listings",
+   "evidenceCount": 5,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 0,
+    "unavailable": true,
+    "windowDays": 90,
+    "sources": [],
+    "match": "similar",
+    "sales": [],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [
+    {
+     "label": "Form",
+     "value": "jug"
+    },
+    {
+     "label": "Body",
+     "value": "earthenware"
+    },
+    {
+     "label": "Glaze",
+     "value": "copper lustre, pink lustre"
+    },
+    {
+     "label": "Decoration",
+     "value": "copper lustre and pink lustre glaze with applied white sprigged relief"
+    },
+    {
+     "label": "Maker's mark",
+     "value": "Base not visible in photograph"
+    },
+    {
+     "label": "Origin",
+     "value": "England, likely Staffordshire (style; mark not visible)"
+    },
+    {
+     "label": "Period",
+     "value": "c. 1820–1840 (style)"
+    }
+   ],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay US",
+     "price": 19,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Antique Copper + Pink Lustre Embossed Flowers Decorated Jug or Pitcher",
+     "url": "https://www.ebay.com/itm/298393371097?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item4579a181d9:g:eVAAAeSwQdhqA8VA"
+    },
+    {
+     "source": "eBay US",
+     "price": 32.8,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Antique Victorian Pottery Copper Lustre Ware Milk Pitcher Jug 5\" (incl. 12.95 USD shipping)",
+     "url": "https://www.ebay.com/itm/198598348348?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item2e3d624e3c:g:ZJoAAeSwt3NoZS9t"
+    },
+    {
+     "source": "eBay UK",
+     "price": 43.9,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Antique Copper Lustre Jug White Grape Vine Relief Pedestal Base (incl. 2.94 GBP shipping) (32.93 GBP)",
+     "url": "https://www.ebay.co.uk/itm/227552096644?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item34fb297184:g:LFAAAeSw~oJqwpNj"
+    },
+    {
+     "source": "eBay UK",
+     "price": 52.66,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Copper & pink lustre vintage Victorian antique footed jug (incl. 4.50 GBP shipping) (39.50 GBP)",
+     "url": "https://www.ebay.co.uk/itm/128089407870?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item1dd2b9417e:g:zbsAAOSwz-FmbYsY&amdata=enc%3AAQALAAABMOf5zIIojhOf%2BkQK%2Bxzjn7mMcjJvUGHSNN5W8mvJWds%2BV4bm9pDoug04GoaxYmTldYBfB%2FvDklG1oArP0f4D2FVVzQmvd125MtuufjL7aHq0GL%2FFH67as8UW6jn29ZN%2FSeoi7E1Zd0w9odiAVruyh97RB78spHWvtvC2MkpHOvIKlGOmFVdyOIglLMWFUpoD%2FUXDt6gyUxW4tEnMt3sRaXbS0aY5S7WKfLl%2B9MC0jutVAlhz6X5sGdmilbHImfR6lSwxVYTYaXImqtskzkZZjVETkMQRGS6ReyQlzHiRsHa%2B4%2BpNPTqs2UAhdwiRRyV%2FIK8zL9NJ7lTIk4kiJ3ebvLbPvBO2qbNyaOabAfmXwltXjq%2FkVDbYdO8afIFx7y6uErXMpbunTOHpkFwjQZKZgwo%3D"
+    },
+    {
+     "source": "eBay UK",
+     "price": 52.66,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Copper lustre vintage Victorian antique flower design jug (incl. 4.50 GBP shipping) (39.50 GBP)",
+     "url": "https://www.ebay.co.uk/itm/128089408014?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item1dd2b9420e:g:lTMAAOSwDk5mbYtI&amdata=enc%3AAQALAAABMOf5zIIojhOf%2BkQK%2Bxzjn7ko%2BZHjeTfpnpbYeC%2Bgb91uSVmrWTyjoQVRxTouHOJV5mFd5QtXsiEYOJQzQAnWxnY%2FxRGJ83pzS5FX9rZ8I2MsFYFrF3ksY%2Fml%2BaCxa2oVdYnWlBQKm72c3pWOKTM1tEDMnZVEpPxYe4yy%2FqI5NbNVk0sOKLR%2BiaVmeTUQte7xQjLbwgvDLfZriQ5kJGSrP9lVZVBxLuYODqP448Rp%2BoxisDllSkBfxsrSyAwuIbC6Uw6IKSZ4C2XTNxdiCiRlWqlO3brpRWTjkT4HxUrD0TUOaJqlJ7Q80OBYrVe4iDXJ9J%2F2oTJs%2BC8wfEdrZJTVkZF7rHVCM4Rf%2F1rasTHaZf2sy5kLsnCBZQDn7saBsGBLgcOEASRNspGlt%2BzRglZpt08%3D"
+    },
+    {
+     "source": "eBay US",
+     "price": 55.5,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Antique English Copper Pink Lustre Pitcher Jug Landscape Scroll Handle 5.5 Inch",
+     "url": "https://www.ebay.com/itm/117452298641?_skw=Copper+Lustre+Relief+Jug+Copper+and+pink+lustre+with+white+sprigged+relief&hash=item1b58b3d991:g:UTAAAeSwYa5qxb0k&amdata=enc%3AAQALAAABMOf5zIIojhOf%2BkQK%2Bxzjn7muiBVAF9%2F55ayEyGm7JOea39%2FSJOYT4ixZkGenBCtW5wdCPW1XdoQFwHOx1uOeEuMcH5eWuIEBXEN3LPIYecgVaCZBWbjA%2BPdzL7AAc2Zd7zwvYSz4JguhCIRA2VFA436sg71d4rFPtK8p9sMfJ%2B8jP2jyM54fx97tp9vacgIgFKyPMOY0Yo9%2F63YMVPjEy6N19Ad7Z%2B0v9o4JPlNROAy9rqz6WyVaRn3InX2EwMalFjIwyo9z3v7Gfgz5R80k46Om%2BTYfKZkRj23oS9VcuUgIsYZzuKrxXEElF6Bdg1Tr7FBXBVg7UfR6gImdEzdnshyTptPcOG0zQHoi5cdALVt9hsbM6JKnS24jIVmZVsKABFzpPmFU3tspkEZpCXyJK0w%3D"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "used",
+    "lensDecision": "kept",
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoSaucer",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:51:46.491Z",
+  "datasetID": "ceramic-cma-105121",
+  "photo": "Cleveland Museum of Art, Open Access (CC0)",
+  "photoSource": "https://clevelandart.org/art/1923.323",
+  "response": {
+   "title": "Chinese Export Porcelain Blue and White Saucer, Qianlong Period",
+   "itemName": "Blue and White Landscape Saucer",
+   "category": "Unknown",
+   "brand": null,
+   "year": null,
+   "modelNumber": null,
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": "Underglaze blue landscape and fisherman",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": {
+    "body": "porcelain",
+    "countryOfOrigin": "China, likely Jingdezhen (export market)",
+    "decorationTechnique": "hand-painted underglaze blue",
+    "form": "saucer",
+    "glaze": "clear glaze over cobalt blue",
+    "heightCm": null,
+    "makersMark": "Base not visible in image",
+    "periodApprox": "c. 1740–1780 (Qianlong period)"
+   },
+   "detectedText": [],
+   "confidence": 0.75,
+   "valueLow": 35,
+   "valueHigh": 110,
+   "valueConfidence": 0.25,
+   "valueMid": 62,
+   "priceBasis": "estimate",
+   "priceSummary": "AI estimate: no market prices found for this exact item",
+   "evidenceCount": 0,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 0,
+    "unavailable": true,
+    "windowDays": 90,
+    "sources": [],
+    "match": "similar",
+    "sales": [],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [
+    {
+     "label": "Form",
+     "value": "saucer"
+    },
+    {
+     "label": "Body",
+     "value": "porcelain"
+    },
+    {
+     "label": "Glaze",
+     "value": "clear glaze over cobalt blue"
+    },
+    {
+     "label": "Decoration",
+     "value": "hand-painted underglaze blue"
+    },
+    {
+     "label": "Maker's mark",
+     "value": "Base not visible in image"
+    },
+    {
+     "label": "Origin",
+     "value": "China, likely Jingdezhen (export market)"
+    },
+    {
+     "label": "Period",
+     "value": "c. 1740–1780 (Qianlong period)"
+    }
+   ],
+   "ocreCandidates": [],
+   "comparables": [],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "used",
+    "lensDecision": "kept",
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoGBA",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:47:43.121Z",
+  "datasetID": "game-commons-12862940",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+  "response": {
+   "title": "Nintendo 2001 Game Boy Advance (Glacier)",
+   "itemName": "Game Boy Advance",
+   "category": "Game",
+   "brand": "Nintendo",
+   "year": 2001,
+   "modelNumber": "AGB-001",
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": "Glacier",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [
+    "BURCT",
+    "GAME BOY ADVANCE",
+    "POWER"
+   ],
+   "confidence": 0.98,
+   "valueLow": 71.5,
+   "valueHigh": 100,
+   "valueConfidence": 0.45,
+   "valueMid": 84,
+   "priceBasis": "asking",
+   "priceSummary": "From 16 listings (listings counted below their asking price)",
+   "evidenceCount": 16,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 101,
+    "average": 92.24,
+    "median": 79.18,
+    "low": 39.99,
+    "high": 234.95,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 15,
+    "bestOfferExcluded": true,
+    "removedOutliers": 3,
+    "newest": "2026-10-19",
+    "oldest": "2026-08-18",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-10-19",
+      "price": 73.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Console Glacier White Handheld System AGB-001",
+      "url": "https://www.ebay.com/itm/860062468779?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 77.95,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance System w Game & Light Up Screen Working Nice GBA",
+      "url": "https://www.ebay.com/itm/158298068275?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 86.39,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Glacier Clear Purple Console GBA Tested Working",
+      "url": "https://www.ebay.com/itm/366743447711?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 86.87,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console Glacier Clear Tested and Working",
+      "url": "https://www.ebay.com/itm/307235296926?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 199.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console with Backlit Screen IPS V5 GBA CHOOSE COLOR",
+      "url": "https://www.ebay.com/itm/355942423707?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 204.95,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance SP *CHOOSE SHELL* USB-C AGS 001 101 IPS Reshell GBA",
+      "url": "https://www.ebay.com/itm/255689904880?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 58.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console System - Clear Glacier/Green NO SPEAKER",
+      "url": "https://www.ebay.com/itm/960054849285?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 67.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Clear Handheld System AGB-001 Region Free 2001",
+      "url": "https://www.ebay.com/itm/137855048657?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 70,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Glacier Blue Console Tetris Attack Tested Working",
+      "url": "https://www.ebay.com/itm/900022837698?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 74.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Handheld Game Console Only AGB-001 Clear READ",
+      "url": "https://www.ebay.com/itm/820193626004?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 76.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console  Clear Glacier Tested  No Battery Cover W/Game",
+      "url": "https://www.ebay.com/itm/117449722575?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 79,
+      "currency": "USD",
+      "title": "Vintage Nintendo Game Boy Advance Glacier AGB-001 Handheld Console Tested",
+      "url": "https://www.ebay.com/itm/267810675037?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 82.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Clear Handheld Console w/ Game Cartridge",
+      "url": "https://www.ebay.com/itm/398385453516?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 83,
+      "currency": "USD",
+      "title": "Gameboy Advance Glacier with Backlit  AGS-101 Screen Mod.  Agb 101.",
+      "url": "https://www.ebay.com/itm/257791136079?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 85.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Black Handheld Console Tested Working",
+      "url": "https://www.ebay.com/itm/377580302207?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 57.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console - Glacier w/ Spongebob Squarepants Game",
+      "url": "https://www.ebay.com/itm/960049637336?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 63.94,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance AGB001 Ice Metallic Silver Handheld System Console GBA",
+      "url": "https://www.ebay.com/itm/407241426966?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 69.99,
+      "currency": "USD",
+      "title": "Game Boy Advance LAMINATED IPS Kit Backlit  V5 3.0 NO SOLDER + Shell Gameboy GBA",
+      "url": "https://www.ebay.com/itm/275806812154?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Brand New"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 74.95,
+      "currency": "USD",
+      "title": "Nintendo GameBoy Advance GBA Clear Glacier Video Game Console AGB-001 READ",
+      "url": "https://www.ebay.com/itm/407297286290?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 81,
+      "currency": "USD",
+      "title": "Nintendo GAME BOY ADVANCE Clear Glacier System - 2 Games & Carry Case-Pre-owned",
+      "url": "https://www.ebay.com/itm/257796077348?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 89.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Handheld System Tested Works Pick A Color! G",
+      "url": "https://www.ebay.com/itm/276997704400?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Good - Refurbished"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 129.79,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Clear Glacier Handheld Console GBA + 6 Games - TESTED",
+      "url": "https://www.ebay.com/itm/880019566597?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-16",
+      "price": 73.72,
+      "currency": "USD",
+      "title": "Original Nintendo Game Boy Advance GBA Glacier Clear-works (No Battery Cover)",
+      "url": "https://www.ebay.com/itm/398428116579?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-16",
+      "price": 78.98,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console Glacier Clear Tested and Working",
+      "url": "https://www.ebay.com/itm/168797864237?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-16",
+      "price": 86.15,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Clear Handheld Console w/ Zipper Carry Case",
+      "url": "https://www.ebay.com/itm/377557345885?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 49,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Clear Handheld System Headphone Jack",
+      "url": "https://www.ebay.com/itm/880020498780?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 63.5,
+      "currency": "USD",
+      "title": "NINTENDO GAME BOY ADVANCE GBA CLEAR GLACIER HANDHELD SYSTEM AGB-001",
+      "url": "https://www.ebay.com/itm/840025653448?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 70.51,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Glacier Clear + Tetris Tested Working - Repair",
+      "url": "https://www.ebay.com/itm/307224987523?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 71.24,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Clear Transparent Handheld Console AGB-001",
+      "url": "https://www.ebay.com/itm/327384941782?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 77,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Console AGB-001 - Glacier - Tested",
+      "url": "https://www.ebay.com/itm/128135789913?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 84.07,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console System - Clear Glacier Tested, Cleaned",
+      "url": "https://www.ebay.com/itm/407208492507?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 84.5,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Glacier Blue Handheld System - Tested & Working",
+      "url": "https://www.ebay.com/itm/880017768829?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 86.87,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Console Glacier Clear Tested and Working",
+      "url": "https://www.ebay.com/itm/307096540087?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 90.15,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance - Glacier AGB-001",
+      "url": "https://www.ebay.com/itm/137815812185?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 90.2,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Clear Handheld Console AGB-001 Backlight",
+      "url": "https://www.ebay.com/itm/237033887625?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 96.98,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Clear Glacier Handheld Console GBA - TESTED",
+      "url": "https://www.ebay.com/itm/158297440917?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 99.38,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance GBA Glacier Clear Handheld System AGB-001 Tested",
+      "url": "https://www.ebay.com/itm/236308182427?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 201.15,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance - Glacier - AGB-001 - Complete In Box - Tested!",
+      "url": "https://www.ebay.com/itm/356452602573?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 234.95,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Backlight V5 IPS System USB-C Rechargeable Battery",
+      "url": "https://www.ebay.com/itm/194533221373?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 39.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Clear Glacier Parts Only",
+      "url": "https://www.ebay.com/itm/287646846222?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 56.04,
+      "currency": "USD",
+      "title": "NINTENDO GAME BOY ADVANCE GBA GLACIER Clear HANDHELD CONSOLE US Model Working",
+      "url": "https://www.ebay.com/itm/257799012974?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 74.89,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Glacier Blue NO BATTERY COVER",
+      "url": "https://www.ebay.com/itm/267812515442?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 76.07,
+      "currency": "USD",
+      "title": "Nintendo GameBoy Advance Clear Glacier System w/ Loose Battery Door Agb-001",
+      "url": "https://www.ebay.com/itm/880009611448?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 78.42,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Handheld System",
+      "url": "https://www.ebay.com/itm/117459990037?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 80,
+      "currency": "USD",
+      "title": "NINTENDO GAME BOY ADVANCE GBA GLACIER Clear HANDHELD CONSOLE US Model",
+      "url": "https://www.ebay.com/itm/128133385512?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 82.98,
+      "currency": "USD",
+      "title": "Nintendo GameBoy Advance Console AGB-001 Glacier tested With Game",
+      "url": "https://www.ebay.com/itm/880015954472?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 86.7,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Clear Handheld System Headphone Jack",
+      "url": "https://www.ebay.com/itm/307223066086?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 87.05,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Clear Glacier Handheld Console Tested & Working",
+      "url": "https://www.ebay.com/itm/237117974128?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 100.19,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Console AGB-001 - Glacier - 100% Tested & Working",
+      "url": "https://www.ebay.com/itm/327403972952?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 157.1,
+      "currency": "USD",
+      "title": "Modded Game Boy Advance Console System, Backlit Screen, Glass Lens, TV Out Mod",
+      "url": "https://www.ebay.com/itm/820236831642?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 175,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance SP System GBA SP IPS LCD Clear Transparent Shell",
+      "url": "https://www.ebay.com/itm/128131544238?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 189.99,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance Game Boy Handheld Console  Backlit/Amp/USB-C/IPS V5 AQ",
+      "url": "https://www.ebay.com/itm/296759119884?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 209.95,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA Backlight V5 IPS LCD System PICK YOUR COLOR",
+      "url": "https://www.ebay.com/itm/195489317361?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 51.1,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Handheld Console Clear w/ Headphone Jack",
+      "url": "https://www.ebay.com/itm/227565913509?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 55,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Glacier Blue Tested",
+      "url": "https://www.ebay.com/itm/287645884161?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 59.69,
+      "currency": "USD",
+      "title": "Original Nintendo Game Boy Advance GBA Glacier Clear (No Battery Cover)",
+      "url": "https://www.ebay.com/itm/940009746546?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 69.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Glacier Clear Handheld System Tested READ",
+      "url": "https://www.ebay.com/itm/366663531441?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 76.49,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Glacier Handheld Console Tested & Working",
+      "url": "https://www.ebay.com/itm/820171182619?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 76.86,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance Clear Handheld System AGB-001 w/ Headphone Jack",
+      "url": "https://www.ebay.com/itm/366724675900?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-13",
+      "price": 77.09,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Glacier Blue OEM Tested Working",
+      "url": "https://www.ebay.com/itm/800780099169?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay UK",
+     "price": 63.91,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance AGB-001 Glacier/Clear Handheld Console + Wario Land 4 (incl. 2.94 GBP shipping) (47.94 GBP)",
+     "url": "https://www.ebay.co.uk/itm/377581950785?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item57e9a35741:g:9ZYAAeSwSVlq1evH"
+    },
+    {
+     "source": "eBay US",
+     "price": 69.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance AGB-001 Glacier Clear Console + FREE Incredibles Game",
+     "url": "https://www.ebay.com/itm/407301957796?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item5ed516a8a4:g:VZMAAeSwVUlqzmBz"
+    },
+    {
+     "source": "eBay AU",
+     "price": 89.7,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Clear Glacier AGB-001 E20260116001 (128.40 AUD)",
+     "url": "https://www.ebay.com.au/itm/377180904981?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item57d1bbde15:g:dF8AAeSweW9peIU6"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 90,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Console System - Clear Glacier Good Refurbished",
+     "url": "https://www.ebay.com/itm/377568704817?hash=item57e8d93931:g:ttwAAeSw06Jqzus3"
+    },
+    {
+     "source": "eBay FR",
+     "price": 95.63,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance GBA Glacier Transparente AGB-001 PAL EUR (incl. 6.49 EUR shipping) (85.19 EUR)",
+     "url": "https://www.ebay.fr/itm/287588078916?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item42f595d544:g:CSoAAeSwh9BqqTgp"
+    },
+    {
+     "source": "eBay AU",
+     "price": 103.42,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Console AGB-001  (Glacier) Mint 🔥 Tested ✅ (148.04 AUD)",
+     "url": "https://www.ebay.com.au/itm/327402483345?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item4c3ab56e91:g:R2oAAeSwFhRqza88"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 106.89,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo GameBoy Advance Console Various Color GBA-001 Region Free Used tested (incl. 39.99 USD shipping)",
+     "url": "https://www.ebay.com/itm/186492946001?var=694544607944&hash=item2b6bd88651:g:NOUAAOSwYPNnk8wI"
+    },
+    {
+     "source": "eBay UK",
+     "price": 121.57,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance AGB-001 Console  Gold tested (incl. 27.60 GBP shipping) (91.20 GBP)",
+     "url": "https://www.ebay.co.uk/itm/318819086965?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item4a3b193275:g:xDwAAeSwS3BqmSv2&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m02O3qPLb8k41uWTk37l6xmCBIoh%2FeJR2vrmR7jKKPgBrrw2L3NPC6sbMda03YHZGtHuFqR%2F1RorMnSrOhxmbqA9BlhIRW538ZinemkXB9FFKLnjn9LNFZsEVAQKgk16AzlmS2TwrMpI4L9vOiaoCtlfLkW0%2Frf673bnUvnyV3LTClLJB5OCEBgkHBIUwi79b0hmaFg15y8yLQ8qLHyqQMLs%2FA9A5kGiXpoai3EQrT4TL%2Bn1SpKEPzzY%2F0eX9ts4YW9wZ%2F37ufqlKeNbPYw4cFcM2X3v2eTIFOnWwUKF%2BMTuZ4sq3e4ZolawbbP99TXcs%3D"
+    },
+    {
+     "source": "eBay UK",
+     "price": 121.57,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance AGB-001 Console  Black tested 0707-404 (incl. 27.60 GBP shipping) (91.20 GBP)",
+     "url": "https://www.ebay.co.uk/itm/318690709927?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item4a337251a7:g:iRQAAeSw1cJqdW7U&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l9QhQhLm%2Fgw%2F6vPihpkOAhAxtJGbefemzmFdeX7L7T9H3vgbTe%2B4FJ3jvc1TdFmPpeb4Rcn6EF5Q%2Fyxd7FvnlanwMAB2BJn8o8McDy8GYHrvd%2BWrJD11SR69qk89vEAD9o25zI9VPKWZjlozKiKAOUvywJ3inBI4AQe1b%2BLtnB2CctJsl0typDP19e8%2FcnHd7T4bsl%2FkdggQ1Gg5vLtRg27h1d8YF37pdy40VhSLkiRPhZZxxYSdqonLnO%2F8ayIjVKf2TvVXpFJa8GfbJ6Xpa33Pl8zmoxIiqDSn%2BgpOzOhqaLz6oIlv%2FiYtxH1AVtp8Q%3D"
+    },
+    {
+     "source": "eBay DE",
+     "price": 129.03,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Konsole AGB-001, aufbereitet, verschiedene Farben, GBA (114.95 EUR)",
+     "url": "https://www.ebay.de/itm/317883736018?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item4a0358dfd2:g:qUgAAeSw34pqo5GO&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7nbxEhTABtzmih3oWxoDn7uLWt%2B%2FCXIzSnmi%2FVjezj72jWD%2FoPjlnVIlDpOWeYl9u%2FT2t2ECLcfxwZaWTpmuAhWD9%2FojmtK1jYxtDa3%2FVQROUGSsSy2yZbTdcMy3BMRPh8E9XFcBqINbVPwBfw%2BbnU%2FyKcLzkTIoh383Wxu8wBM9UtdZWP7ZFC6xRIbdiRK6JLV9WHWpOE1%2BfyNPOEOeKQJVZhyllxDKXLZiJdsOUYzsY8u9D3SDqREDeZOHVJhtsmAR1IPJbwFcZ6Nhx6zzHvYqE3j8m1I%2FMIGfpijsqijwLvPs8w%2F0cqJmf3tN%2BdTL347yywawu22co1z7Fhchql%2B"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 179.66,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Console Milky Blue eanty58l (incl. 30.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/307072474186?hash=item477ef21c4a:g:6wQAAeSwYaxqXJWg"
+    },
+    {
+     "source": "eBay FR",
+     "price": 204.63,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Advance Glacier AGB-001 en boîte avec notices 2001 (incl. 4.90 EUR shipping) (182.30 EUR)",
+     "url": "https://www.ebay.fr/itm/307195583507?_skw=Nintendo+Game+Boy+Advance+Glacier+AGB-001&hash=item4786489c13:g:yXkAAeSwUkJqtGhG"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoN64",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:47:33.641Z",
+  "datasetID": "game-commons-12814248",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:N64-Console-Set.png",
+  "response": {
+   "title": "Nintendo 1996 Nintendo 64 Console with Controller",
+   "itemName": "Nintendo 64",
+   "category": "Game",
+   "brand": "Nintendo",
+   "year": 1996,
+   "modelNumber": "NUS-001",
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": "Charcoal Black",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [
+    "NINTENDO64"
+   ],
+   "confidence": 0.98,
+   "valueLow": 96,
+   "valueHigh": 180,
+   "valueConfidence": 0.45,
+   "valueMid": 127,
+   "priceBasis": "asking",
+   "priceSummary": "From 14 listings (listings counted below their asking price)",
+   "evidenceCount": 14,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 69,
+    "average": 67.62,
+    "median": 34.99,
+    "low": 18.18,
+    "high": 145.87,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 7,
+    "bestOfferExcluded": true,
+    "removedOutliers": 11,
+    "newest": "2026-10-19",
+    "oldest": "2026-07-24",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-10-19",
+      "price": 37,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Video Game Console NUS-001 USA Charcoal Parts or Repair ⚙️",
+      "url": "https://www.ebay.com/itm/227543840571?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-15",
+      "price": 75,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console NUS-001 Charcoal Black w/ OEM Power & AV Cable - Tested",
+      "url": "https://www.ebay.com/itm/198717708681?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-12",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 OEM N64 Tested Loose Stick",
+      "url": "https://www.ebay.com/itm/198704504881?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-12",
+      "price": 32.78,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM Untested",
+      "url": "https://www.ebay.com/itm/820228303714?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-12",
+      "price": 32.98,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/336630178881?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-09",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Red Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/189014236654?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-09",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Blue Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/178568028085?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-05",
+      "price": 18.18,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 OEM Original Charcoal Dark Gray Controller Tested Works",
+      "url": "https://www.ebay.com/itm/820010476393?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-03",
+      "price": 140.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407254979836?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-28",
+      "price": 141.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407252589773?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-25",
+      "price": 39.49,
+      "currency": "USD",
+      "title": "Nintendo 64 Controller OEM N64 CHARCOAL BLACK loose joystick NUS-004",
+      "url": "https://www.ebay.com/itm/177273763640?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-19",
+      "price": 84.99,
+      "currency": "USD",
+      "title": "Nintendo 64 Charcoal Black Console Only Tested & Working",
+      "url": "https://www.ebay.com/itm/257753832561?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-19",
+      "price": 113.47,
+      "currency": "USD",
+      "title": "Nintendo 64 Console + POKEMON SNAP+ 2 Controllers + N64 Cords. Tested And Works!",
+      "url": "https://www.ebay.com/itm/158184890834?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-12",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Blue Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/188788053855?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-09",
+      "price": 140.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407125909063?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-09",
+      "price": 144.47,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console With 4 Controllers Clean Jumper Pak Charcoal",
+      "url": "https://www.ebay.com/itm/287513601967?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-08",
+      "price": 26.04,
+      "currency": "USD",
+      "title": "Official Nintendo 64 N64 Controller Charcoal Black Wired Original OEM NUS-005",
+      "url": "https://www.ebay.com/itm/800561847516?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 36.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Shell OEM Original Charcoal Grey, No Hardware Only Plastic",
+      "url": "https://www.ebay.com/itm/336783737634?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 109.8,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + 4 Controllers + Cords + Expansion PAK",
+      "url": "https://www.ebay.com/itm/227500042652?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-07",
+      "price": 140.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407096782478?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM TESTED Gray",
+      "url": "https://www.ebay.com/itm/188881898319?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray Discolored",
+      "url": "https://www.ebay.com/itm/178447660671?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray",
+      "url": "https://www.ebay.com/itm/188873570629?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Red Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/178351044002?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Blue Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/178360632214?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-03",
+      "price": 23.23,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/307124476507?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-02",
+      "price": 24.17,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS Official N64 tested READ DESC",
+      "url": "https://www.ebay.com/itm/147509845536?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-02",
+      "price": 140.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407154220800?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-31",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray",
+      "url": "https://www.ebay.com/itm/178453111085?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-31",
+      "price": 139.5,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407118086791?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-26",
+      "price": 24.99,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray",
+      "url": "https://www.ebay.com/itm/147073658970?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-24",
+      "price": 141.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407167200475?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-23",
+      "price": 85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console W/  Controller Tested Working  Jumper  Pak Charcoal",
+      "url": "https://www.ebay.com/itm/318768824228?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-22",
+      "price": 56.69,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console Only NUS-001 Tested Working",
+      "url": "https://www.ebay.com/itm/128038598192?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-19",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray",
+      "url": "https://www.ebay.com/itm/188788118726?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-19",
+      "price": 25,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/178418143091?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-19",
+      "price": 145.87,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/366613612961?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-17",
+      "price": 25.34,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Controller NUS-005 Official N64 Loose Stick Untested",
+      "url": "https://www.ebay.com/itm/820014824684?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-08-17",
+      "price": 119.67,
+      "currency": "USD",
+      "title": "N64 Nintendo 64, Controller, Cords, Performance Memory Card, Memory Expasion Pak",
+      "url": "https://www.ebay.com/itm/397282773059?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-16",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray",
+      "url": "https://www.ebay.com/itm/188797056716?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-16",
+      "price": 135.1,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407142678119?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-15",
+      "price": 47.85,
+      "currency": "USD",
+      "title": "(Works, As Is) Nintendo 64 N64 Console Model NUS-001(JPN) Charcoal Grey",
+      "url": "https://www.ebay.com/itm/206482137006?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-14",
+      "price": 75.86,
+      "currency": "USD",
+      "title": "Nintendo 64 Launch Edition Charcoal Grey Console (NTSC) Pre Owned",
+      "url": "https://www.ebay.com/itm/227456751118?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-14",
+      "price": 89.06,
+      "currency": "USD",
+      "title": "Nintendo 64 Console, and 1 Controller (Works)",
+      "url": "https://www.ebay.com/itm/147171296267?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-13",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray Discolored",
+      "url": "https://www.ebay.com/itm/178288103737?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-13",
+      "price": 20,
+      "currency": "USD",
+      "title": "Nintendo 64 Grey Controller NUS-005 Official N64 OEM-TESTED-Gray Discolored",
+      "url": "https://www.ebay.com/itm/178393053088?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-13",
+      "price": 23,
+      "currency": "USD",
+      "title": "Nintendo 64 Blue Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/188788054225?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-13",
+      "price": 25,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/188788117823?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-12",
+      "price": 25,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/188707117444?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-12",
+      "price": 63.69,
+      "currency": "USD",
+      "title": "Nintendo 64 Charcoal Gray N64 Launch Console Only & Jumper Region Free System",
+      "url": "https://www.ebay.com/itm/168571446713?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-11",
+      "price": 135.1,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407123125706?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-11",
+      "price": 139.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407134219684?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-10",
+      "price": 106,
+      "currency": "USD",
+      "title": "WORKING Nintendo 64 N64 Console with games, Controller and Cords READ DESC",
+      "url": "https://www.ebay.com/itm/188737997310?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-08",
+      "price": 84.99,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console With Controller Tested Works Clean Jumper Pak Charcoal",
+      "url": "https://www.ebay.com/itm/358892923406?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-07",
+      "price": 50,
+      "currency": "USD",
+      "title": "Charcoal Gray Nintendo 64 Video Game Console Tested, Controller NUS-001(USA)",
+      "url": "https://www.ebay.com/itm/188749609183?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-07",
+      "price": 121.78,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords. Tested And Works!",
+      "url": "https://www.ebay.com/itm/336719105397?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-03",
+      "price": 25,
+      "currency": "USD",
+      "title": "Nintendo 64 Clear Atomic Purple Controller NUS-005 Official N64 OEM-TESTED",
+      "url": "https://www.ebay.com/itm/178351049775?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-03",
+      "price": 136.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407115832100?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-31",
+      "price": 139.85,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Console + Super Mario 64+Controller+Cords",
+      "url": "https://www.ebay.com/itm/407041116543?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-30",
+      "price": 29.99,
+      "currency": "USD",
+      "title": "Nintendo 64 N64 Controller Charcoal Black Tight Snappy Stick Authentic OEM",
+      "url": "https://www.ebay.com/itm/257634124516?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay US (image match)",
+     "price": 94.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 Gray Black Console w/ (2 games, memory pak, 2 controllers, cables)",
+     "url": "https://www.ebay.com/itm/306850715922?hash=item4771ba5912:g:vUkAAeSwENFpycJF"
+    },
+    {
+     "source": "eBay UK",
+     "price": 101.96,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 N64 Console Charcoal Grey PAL Original Controller Cables Tested (incl. 6.50 GBP shipping) (76.49 GBP)",
+     "url": "https://www.ebay.co.uk/itm/168799524831?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item274d3c57df:g:7t8AAeSw1wtq07~C"
+    },
+    {
+     "source": "eBay US",
+     "price": 114.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Official Nintendo 64 Black Console system N64 Gray Controller Adapter Cables",
+     "url": "https://www.ebay.com/itm/156888545794?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item2487493a02:g:KSQAAeSwtmpqDPS3&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7nDMFHcieyOPBRn8kISm6X%2FpZHxXZTAq1Hrk5UqL7IyuJKvxpDqdK6jbDaNkarWUURstvwsPdGqxkmpCkwyvH93A6saFM4JHsPkbAZ4p3i6sAgqwHYWU0UvpXkQTIKzWsJWryeQdt7h9EHUkmB2oUkiXLQZhcBLSL1CxzT8Y9u7KZIN4WGQM0GKPlbGu4D5k%2Br7B8qswrSWVSDToIgbhI6Qe2BR2GPOV37P7%2Bh%2FWHPQdk%2Bjpl%2Bwq4LgiCisjyuNjGhuSG678rbRclmUprEq%2FkAGw%2F8lf7e2Y6Af7GsKqqAaFH61Yq4bMR9gJHjTeEfCHGSkOKhs5TfDmY1drOwtxYTs"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 123.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 N64 Console + 1 Controller Used Video Games  Japan Seller (incl. 15.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/317092073576?hash=item49d4291068:g:YqAAAeSwc8toeXDU"
+    },
+    {
+     "source": "eBay AU",
+     "price": 124.35,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 N64 Charcoal Gray Console Yellow Controller Tested OEM JP (178.00 AUD)",
+     "url": "https://www.ebay.com.au/itm/137816900718?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item201687046e:g:qmYAAeSwEPFqAD~v"
+    },
+    {
+     "source": "eBay AU",
+     "price": 139.69,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 Console - N64 PAL + Controller + Cords + Game - Tested - Free Post (199.95 AUD)",
+     "url": "https://www.ebay.com.au/itm/840037057431?_skw=Nintendo+64+console+charcoal+gray+controller&hash=itemc3961c4397:g:af4AAeSweP9qrmy~&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7mhgwi8sJ1mjKW5lmY5O69VM6lwWksOz93MHMUNPUwqe4W43K9qLrUJtQDQ5l%2FJn6SjlaolHcMK9XbHTWf9MQ8RMpI0nSsHVRTgWFP5mmfgA8iUIvY9goYxNywesPMdeoiejwX%2FZxlGVHq2k68cVrGNCEPH8mHnPnYWZFuC4Ix1a4Ic3g%2BOUlgEGdcSI3Og22YC%2BZBaMn1s%2FUe6SsHcxeEjxymXWVQTUcnpLD9XEeXa9%2Bi7b39CC63yQixQVx9FYhL2XL0RzN%2FdOTuenXfL%2BihTufGt3WXcVbF6zp%2BAo2Wzu6EzKMSM3OJPcIClduZ2TP6d32xtnfc3ARKpnNTAnMoI"
+    },
+    {
+     "source": "eBay DE",
+     "price": 177,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "N64 Konsole | Nintendo 64 | Grau transparent | + 1 Controller | Neuwertig! | PAL (incl. 7.69 EUR shipping) (157.68 EUR)",
+     "url": "https://www.ebay.de/itm/128028135658?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item1dcf1250ea:g:TQkAAeSwWg9qjd7-&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7nveVFqQ2noWSzwzopLJoDhNqxUGqZwNbquBHe0%2Bq2AghQsCtTyPHGymnyaEoQJc2dh2C84SjOeGOAgXZ7al9pvJzuBKVEQnQiEyZUAjVQwGD9EGU1tRtNALWZlpQUim8Ur9XKtWCsWjU8wGyf3mJoj56I6%2BE%2FPUj9twutRnIPyds6SN0%2BOWmioZrDbGorOpuozwYsr8ZVl%2BCVHiuUKbwGFMzETZ0IX5aWvpcrEvAlNHSFKFsWBL6CQA71cWp8nQpH9%2F8JmKOQdllK3NfhlYlA6cL6GPTsOGSZI06Z2WQyhCVKtfAQD25szfXjOWEtY4YfHkXXeruVuov%2FhfxHBf7ZD"
+    },
+    {
+     "source": "eBay US",
+     "price": 179.95,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "EXCELLENT - N64 Nintendo 64 Console + UP TO 4 NEW CONTROLLERS + Cords + CLEANED!",
+     "url": "https://www.ebay.com/itm/142373490668?_skw=Nintendo+64+console+charcoal+gray+controller&var=441393837007&hash=item21261f0fec:g:0dEAAOSwuJplX2QE&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7kGKjBPV1aVqaw3GS6uKpa7DRKvZAyzQ2NerjWW3WuHEC%2F1BAKwIVrwjrkEY07BDMR9TfNdZXyNRcirUBFaIE81VPEdh2lfEW9IBYZwfWKuU1%2FrEnGh1w3W%2F%2BhQFfHa1ZdxsD9qHiWJtskqp85woLJ%2FOWSAXY%2BjRF7TnrMZ5kkpm80yl1yZ0zpTCceEMKVe3FD%2FE31xhLW9%2B%2F3%2FNeJqYYfrbIYsT5WWI8pRslYhlaGh06StfMU04FbifRcV4xYFR5alYhMvdMqy14OeaGK4%2FYPL7SxrJ%2FUbGxx%2FuKR47TRuy0H2YVkxHZO6DlfS9LiliapzoRHqDFr9nehhFj%2FWVfqA"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 212.4,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 Console N64 - FULL SET UP - Ready To Play - Comes With 1 FREE GAMES (incl. 50.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/298707474709?hash=item458c5a5915:g:RqQAAeSwgxVoNxfe"
+    },
+    {
+     "source": "eBay UK",
+     "price": 245.95,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 N64 Console ICE Blue - Exceptional Unused Condition! RARE! (incl. 7.00 GBP shipping) (184.50 GBP)",
+     "url": "https://www.ebay.co.uk/itm/198706687775?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item2e43d76f1f:g:RNcAAeSwwb5qy4MP&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7n4wwd0%2B7Nz--755XzztCjev4cZmYxVxNYHrFAHXDG2G8a%2BtXP9TwfAbaWyBTwTBfVCPv7S3E7nnsHz3dR6vtq41EBxLAqFTab1QNVzoRR0FDoGIzhaZ7KlyZaSwck3RaFoYIIslQ0d37FlVtyWDqFIHgN9jmFJt%2BNXL6k7zg5onvGaVIp8hz%2BphdxoL8n%2Be%2Be4zaoFaTH6nKI599zM7bVXJvVaXOXAXSyX0F46Ld8nh4adoV7eO2QyC%2F5f4k2gMX9Hh8vBVmgJxB2KzoNOdr96b122PyLJeyP%2BunjnhyQTYdcMZCYvFBh5LMAx%2FzKapToKRvKx3moRoEKPjh4U6dP9"
+    },
+    {
+     "source": "eBay AU",
+     "price": 251.5,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo 64 Console N64 (PAL) + 1080p HDMI Adapter, Cables and 4x Controllers (359.99 AUD)",
+     "url": "https://www.ebay.com.au/itm/307139908355?_skw=Nintendo+64+console+charcoal+gray+controller&hash=item4782f71303:g:L~YAAeSwj6BqhWSf&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7nAT5qokcg0RFemTvWovctb8EQ08Pdh4sEw3U%2BHkmuGgx7bU90IylMxz4VBp9lQ4nLI7X4bZiYUzEwmVMakHtgBKppqQ6jXpXXAyPjn5g%2BR6H%2Fr3KheVbvZIAALw0OHxt1IYGscjXFfHpr5tPSf31ZPMRDQJTCTmbm1QJET9vtSQJr%2FOF1UzdXRmzxmCJi2Ei4jhhPskJlFgaALx0J4Q48FsdTF0iXfzlvwc1uqYULBMr8mQHDCaw9TvrX1s8xc%2FUFCbsG8H8pDQdXaCH4TXLBIZRHYf05P7Wl5J6w5c6DZGfg4C1vxd8WN92XgQlVTC8h70IE56lxxcKqrOYINjsNn"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 276.58,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo NUS-001JPN NINTENDO64 main Japan Ver. (incl. 20.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/257781688083?hash=item3c04fc6713:g:AAoAAeSwOJ1qwnHJ"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoGameBoy",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:46:25.804Z",
+  "datasetID": "game-commons-12138729",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Game-Boy-Original.jpg",
+  "response": {
+   "title": "Nintendo Game Boy DMG-01 (1989)",
+   "itemName": "Game Boy",
+   "category": "Game",
+   "brand": "Nintendo",
+   "year": 1989,
+   "modelNumber": "DMG-01",
+   "setName": null,
+   "cardNumber": null,
+   "edition": "Original Release",
+   "variant": "Grey",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [
+    "OFF-ON",
+    "DOT MATRIX WITH STEREO SOUND",
+    "BATTERY",
+    "Nintendo GAME BOY™",
+    "SELECT",
+    "START",
+    "CHIChES"
+   ],
+   "confidence": 0.98,
+   "valueLow": 73,
+   "valueHigh": 106,
+   "valueConfidence": 0.45,
+   "valueMid": 92,
+   "priceBasis": "asking",
+   "priceSummary": "From 11 listings (listings counted below their asking price)",
+   "evidenceCount": 11,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 86,
+    "average": 109.18,
+    "median": 87,
+    "low": 35.36,
+    "high": 249.95,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 16,
+    "bestOfferExcluded": true,
+    "removedOutliers": 7,
+    "newest": "2026-10-19",
+    "oldest": "2026-09-17",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-10-19",
+      "price": 40,
+      "currency": "USD",
+      "title": "Miyoo Mini+ Plus Handheld Game System 'Game Boy' Retro Gray",
+      "url": "https://www.ebay.com/itm/336850906213?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 44.5,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Console + Tetris + Super Mario Land + Screen MagnifierLot",
+      "url": "https://www.ebay.com/itm/860040706961?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 50,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Clear Transparent Handheld Console",
+      "url": "https://www.ebay.com/itm/377582768841?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 65,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance SP AGS-101 Gray Backlit Handheld Console Region Free",
+      "url": "https://www.ebay.com/itm/377583169317?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 77.78,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Console Gray tested + working!",
+      "url": "https://www.ebay.com/itm/128098701668?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 79,
+      "currency": "USD",
+      "title": "Vintage Game Boy Printer Tested Working It will need new batteries MGB-007",
+      "url": "https://www.ebay.com/itm/287547439815?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 79.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Original System Console Handheld DMG-01 Tested With Tetris",
+      "url": "https://www.ebay.com/itm/198442867183?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 84.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Handheld System - Blue DMG-01",
+      "url": "https://www.ebay.com/itm/920034617256?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 90,
+      "currency": "USD",
+      "title": "Nintendo Gameboy DMG Gray Restored Glass Screen W/ Tetris & a Display Stand",
+      "url": "https://www.ebay.com/itm/920029727463?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 106.98,
+      "currency": "USD",
+      "title": "Gameboy Advanced sp GBA Platinum Silver Ags-001 Tested US Model",
+      "url": "https://www.ebay.com/itm/920050163241?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 143.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA iPS V2 Backlight Backlit LCD Console Indigo & Grey",
+      "url": "https://www.ebay.com/itm/327381590642?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 149.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Handheld System in Box *Does Not Include Game*",
+      "url": "https://www.ebay.com/itm/800814471061?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 160,
+      "currency": "USD",
+      "title": "Smoke Grey Game Boy Advance Console with iPS V5 Backlight LCD W/ USB-C Battery",
+      "url": "https://www.ebay.com/itm/336851159721?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 189.99,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance Game Boy Console  Backlit/Amp/USB-C/IPS V5 Classic",
+      "url": "https://www.ebay.com/itm/296759105537?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 204.95,
+      "currency": "USD",
+      "title": "Nintendo Gameboy Advance SP *CHOOSE SHELL* USB-C AGS 001 101 IPS Reshell GBA",
+      "url": "https://www.ebay.com/itm/255689904880?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 36,
+      "currency": "USD",
+      "title": "DMG Game Boy",
+      "url": "https://www.ebay.com/itm/206620400740?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 39.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01– Works No Display – Parts/Repair",
+      "url": "https://www.ebay.com/itm/800784750720?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 40,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Original - Powers On - Screen Issues",
+      "url": "https://www.ebay.com/itm/168801476171?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 40,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Handheld Console White/Gray Stereo: parts only",
+      "url": "https://www.ebay.com/itm/267810771280?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 42,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Handheld Console w/ NHL 94 game ( both untested)",
+      "url": "https://www.ebay.com/itm/820251996661?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 49.99,
+      "currency": "USD",
+      "title": "Nintendo Gameboy DMG-01 Handheld Console System READ (Minor Fix)",
+      "url": "https://www.ebay.com/itm/377577789515?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 58,
+      "currency": "USD",
+      "title": "B2937 Nintendo Gameboy console Gray Japan GB x",
+      "url": "https://www.ebay.com/itm/227566517612?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 59.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-001 Gray/White Handheld Video Game Console - TESTED/READ",
+      "url": "https://www.ebay.com/itm/960064048666?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 79.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Handheld System Gray 1989 Region Free Tested Working",
+      "url": "https://www.ebay.com/itm/257802795480?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 80,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance SP",
+      "url": "https://www.ebay.com/itm/307231401135?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 84.85,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Original Handheld System - Gray (Tested - Working)",
+      "url": "https://www.ebay.com/itm/237026306613?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 105,
+      "currency": "USD",
+      "title": "TESTED Nintendo Game Boy DMG-01 Gray Handheld Console NTSC-U/C  - Tetris + SML2",
+      "url": "https://www.ebay.com/itm/257798997219?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 109.99,
+      "currency": "USD",
+      "title": "Professionally Restored OEM Original Game Boy DMG-01 Console Handheld-Authentic!",
+      "url": "https://www.ebay.com/itm/840034893856?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 124.95,
+      "currency": "USD",
+      "title": "Original Nintendo Game Boy Gameboy DMG DMG-01 Handheld Console Gray Restored",
+      "url": "https://www.ebay.com/itm/227498526105?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 149.85,
+      "currency": "USD",
+      "title": "*RESTORED AUTHENTIC ORIGINAL* NINTENDO GAME BOY DMG-01 GRAY CONSOLE SYSTEM",
+      "url": "https://www.ebay.com/itm/303812186448?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 149.99,
+      "currency": "USD",
+      "title": "GameBoy DMG-01 Restored Authentic Original Nintendo Handheld Video Game Console",
+      "url": "https://www.ebay.com/itm/403643608363?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 173.24,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG Grey – OEM – Boxed – Tetris Included",
+      "url": "https://www.ebay.com/itm/377371796517?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Very Good - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 189.95,
+      "currency": "USD",
+      "title": "*RESTORED BACKLIT COLOR* ORIGINAL NINTENDO GAME BOY DMG-01 IPS 11% LARGER SCREEN",
+      "url": "https://www.ebay.com/itm/303933410135?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 199.99,
+      "currency": "USD",
+      "title": "Super Nintendo SNES Game Boy Advance SP GBA SP IPS Screen Brightness Control",
+      "url": "https://www.ebay.com/itm/197032933672?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 200,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Handheld System w/ Carry Case & 4 Games",
+      "url": "https://www.ebay.com/itm/840031963884?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Open Box"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 214.95,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance GBA V5 IPS LCD CLEAR PURPLE USB-C Rechargeable Battery",
+      "url": "https://www.ebay.com/itm/205377532198?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 224.95,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Color GBC AMOLED OLED XL Touch Screen USB-C Battery PICK COLOR",
+      "url": "https://www.ebay.com/itm/204517457600?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Excellent - Refurbished"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 35.36,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Original Handheld Game Console DMG-01 Gray Free Shipping",
+      "url": "https://www.ebay.com/itm/880026154385?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 36,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Pocket Console GB-70 1989 original owner- Dead Lines-see photo",
+      "url": "https://www.ebay.com/itm/900004120121?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 39.99,
+      "currency": "USD",
+      "title": "Broken Nintendo Game Boy Handheld Game Console Only DMG-01 Bad LCD",
+      "url": "https://www.ebay.com/itm/820246304204?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 39.99,
+      "currency": "USD",
+      "title": "*DEFECTIVE / AS-IS* Nintendo Game Boy Handheld System - Gray *NO POWER*",
+      "url": "https://www.ebay.com/itm/137852606388?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 39.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Original OEM Clean Tested Works Screen Lines Repair",
+      "url": "https://www.ebay.com/itm/800784629738?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 40.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Launch Edition Handheld System - Gray",
+      "url": "https://www.ebay.com/itm/820247290303?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 44.66,
+      "currency": "USD",
+      "title": "Nintendo Game Boy with Super Mario Land",
+      "url": "https://www.ebay.com/itm/820224266678?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 49.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy 1989 DMG-01 Working, missing battery cover, WITH GAME!",
+      "url": "https://www.ebay.com/itm/237053360400?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 50,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance AGB-001 Blue/Gray Handheld Console",
+      "url": "https://www.ebay.com/itm/860050769366?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 60,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Handheld System Gray Stereo Sound Headphone Jack 1989",
+      "url": "https://www.ebay.com/itm/377507534086?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 69.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Handheld Console w/ Carry Case Read  & 2 Games",
+      "url": "https://www.ebay.com/itm/257800394290?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 72.99,
+      "currency": "USD",
+      "title": "Original Nintendo Game Boy DMG-01 Gray Tested Working New Screen Lens Vintage",
+      "url": "https://www.ebay.com/itm/168659522277?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 75,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Launch Edition Handheld System - CLEAR Working W/ Case",
+      "url": "https://www.ebay.com/itm/117410733562?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 75,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance SP Handheld Console System Onyx Black AGS-001 READ!",
+      "url": "https://www.ebay.com/itm/287647906314?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 75,
+      "currency": "USD",
+      "title": "Nintendo Game Boy",
+      "url": "https://www.ebay.com/itm/307207698685?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 76.88,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Handheld System Gray & Tetris Game Tested",
+      "url": "https://www.ebay.com/itm/840030858981?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 99.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Gray Handheld Console w/ Tetris Cartridge 1989 -1 owner",
+      "url": "https://www.ebay.com/itm/158314460677?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 100,
+      "currency": "USD",
+      "title": "Gameboy Advanced sp GBA Platinum Silver Ags-001 Tested US Model",
+      "url": "https://www.ebay.com/itm/800803868755?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 114.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Original DMG-01 Handheld Console Gray w/ 3 Games - Tested MINT",
+      "url": "https://www.ebay.com/itm/117462487540?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 122.95,
+      "currency": "USD",
+      "title": "Nintendo Game Boy DMG-01 Console Boxed Manual Proof Purchase Screen Burn As Is",
+      "url": "https://www.ebay.com/itm/128139674572?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 129.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy Advance SP Graphite Gray Handheld System AGS-101 *READ*",
+      "url": "https://www.ebay.com/itm/336849068540?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 142.49,
+      "currency": "USD",
+      "title": "BRIGHTER SCREEN Nintendo Game Boy Advance GBA SP AGS-101 Blue Console System",
+      "url": "https://www.ebay.com/itm/860053488263?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-17",
+      "price": 149.99,
+      "currency": "USD",
+      "title": "Nintendo Game Boy with IPS screen Upgrade",
+      "url": "https://www.ebay.com/itm/377493701000?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay AU",
+     "price": 83.83,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy DMG-01 Original Grey – Tested & Working (120.00 AUD)",
+     "url": "https://www.ebay.com.au/itm/206639522342?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item301cace226:g:4csAAeSwzrJq1p-w"
+    },
+    {
+     "source": "eBay UK",
+     "price": 88.47,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy DMG-01 Original Handheld System Genuine Fully Working Tested (incl. 3.38 GBP shipping) (66.37 GBP)",
+     "url": "https://www.ebay.co.uk/itm/900025521832?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=itemd18db396a8:g:pTgAAeSwb0pq1kwS"
+    },
+    {
+     "source": "eBay UK",
+     "price": 91.3,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy DMG-01 Original Grey Console Tested Working Retro Handheld (incl. 3.50 GBP shipping) (68.49 GBP)",
+     "url": "https://www.ebay.co.uk/itm/168788025404?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item274c8ce03c:g:ScgAAeSwhjlqzRBP"
+    },
+    {
+     "source": "eBay US",
+     "price": 109.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Professionally Restored OEM Original Game Boy DMG-01 Console Handheld-Authentic!",
+     "url": "https://www.ebay.com/itm/840038345989?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=itemc3962fed05:g:f94AAeSw9SVq1lbG&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7n%2FjyQwk%2Bh31%2BzLsFw9sP4gC55tNZp9%2BTorp2RTPaEuJ9QbfMP0HwiXVKSfrW7Dt62uirzYc8MyYMatqgMEkOKqsnweWVW7kjJpAEnCgQrHk%2BukpLzriyE1FEqsaPLlvgjt8K9Le6gHHOlwXUWyqksgpNCuZWKMCHp6DKn2sshs7oANA8QWqMgvcdQI9NdiNxPmbOFwIV6eLFCM%2F5EPEfOSZE8m0ZxDw2b9zETWqXkPj5XY%2BIbxCsCqEZ8qpuFVdePQL7gTEbZkMIwsmZh0tWtOvQqrIbimaaRb1giwuSE8%2FqN03gXQmEAd5K6t4vI%2BvffVmfp6TNLhFa5N52%2FcXmrm"
+    },
+    {
+     "source": "eBay DE",
+     "price": 115.24,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Original Graue Nintendo Game Boy DMG-01 Konsole OVP - lässt sich nicht einschalten - Defekt (incl. 19.66 EUR shipping) (102.66 EUR)",
+     "url": "https://www.ebay.de/itm/407280647883?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item5ed3d17ecb:g:~pQAAeSw-CNqyjKQ"
+    },
+    {
+     "source": "eBay DE",
+     "price": 124.13,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy DMG-01 Original Grau Konsole Getestet Funktioniert Retro Handheld (incl. 18.87 EUR shipping) (110.58 EUR)",
+     "url": "https://www.ebay.de/itm/168788025404?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item274c8ce03c:g:ScgAAeSwhjlqzRBP"
+    },
+    {
+     "source": "eBay UK",
+     "price": 124.89,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Original Nintendo Game Boy DMG-01 Fully Cleaned Serviced MINT Condition (incl. 3.89 GBP shipping) (93.69 GBP)",
+     "url": "https://www.ebay.co.uk/itm/366660127158?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item555ea589b6:g:YwAAAeSwehhqonmE&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7kPgKqcaGkA%2BQodmdouwkbB1OLHpkwQnSLRAu4kxPb6mNbrk11vFpuay0iZjoTx%2FAv8a%2Bl6Qe93delTMSgjwukTB4%2Ff1Kr6%2FXZZvdz3TesVvi8mEebmkTGSgmH8uqyq0auIFf1LrvdqkYNACMLkqi5cKF%2FmxcJJ4e1E6HkwJuQtQlqot49ANR2uL1DthJq7%2Fnog5aY3ugQHZRSwQO8q11cdFgkO0WWf5fo%2FqguL0F%2BxQqwGHYCO%2Fray6la5QUb%2Ft0gUSWD12OD7Jby7wUi2pV8QqagMQqaFA1Vm5CzpVxLzMFg73bveCdyoBxg7vOK%2FZ%2FkRZLcnru0Rhz%2FOxy6%2FPM9Z"
+    },
+    {
+     "source": "eBay US",
+     "price": 124.95,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Original Nintendo Game Boy Gameboy DMG DMG-01 Handheld Console Gray Restored",
+     "url": "https://www.ebay.com/itm/227498526105?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item34f7f80599:g:Y24AAeSwvDhqihhi"
+    },
+    {
+     "source": "eBay AU",
+     "price": 133.79,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Original Nintendo Game Boy Console (DMG-01) - GOOD CONDITION - NO DEAD PIXELS (191.50 AUD)",
+     "url": "https://www.ebay.com.au/itm/860061496894?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=itemc83fa8f63e:g:FdEAAeSwCFxqxjG2&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7k4JbioxV39d6KzaX4wiTKSEJEJZWvadManFACeLiFZWw70n528wbO4NApv8etVAWbqF1mANdSU2nQx%2Btk3AYzOtsNVu%2F%2B6XozDY9HziBLikY2y1Hgu8BG3kvUgyznS7lEAhcnTYEaE2V1JerjI4WjwgJ0uP3gV5Dap77Lqj3odtEYbBpA0rk9nwSC0RdQhJQK101M1Bv9UoBf9PRZGN%2BhFOKXjfHn9qGwGe3UgH3Se0MhrpAkRKeSgaYR6ofGxOBFo5SuIoSZPPU6%2FFO4LBnYJNReqeV463LQHid6mQdzHVDd%2BHK7TdKEv6pzOIi7QsZtgC%2FN84ccM%2FvQAsInzlXo9"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 293,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Launch Edition Handheld System - Gray",
+     "url": "https://www.ebay.com/itm/176004229477?hash=item28faab6965:g:mRMAAOSwRmVjV86-"
+    },
+    {
+     "source": "eBay DE",
+     "price": 305.21,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy DMG-01 Konsole Grau OVP, Anleitungen & Zubehör (incl. 21.85 EUR shipping) (271.90 EUR)",
+     "url": "https://www.ebay.de/itm/158032003952?_skw=Nintendo+Game+Boy+DMG-01+console+original+grey&hash=item24cb710370:g:hQAAAeSwEp1pdoBM"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 350,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Game Boy Launch Edition Gray Handheld System",
+     "url": "https://www.ebay.com/itm/402784748358?hash=item5dc7d78346:g:F8QAAOSw7z9fGYVi"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoMegaDrive",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:48:17.951Z",
+  "datasetID": "game-commons-17288445",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+  "response": {
+   "title": "Sega 1988 Mega Drive Model 1 Japanese Version Console",
+   "itemName": "Mega Drive",
+   "category": "Game",
+   "brand": "Sega",
+   "year": 1988,
+   "modelNumber": null,
+   "setName": null,
+   "cardNumber": null,
+   "edition": "Japan NTSC-J",
+   "variant": "Model 1",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [
+    "ТРОСЕЯ",
+    "SEGA",
+    "PHONES VOL",
+    "-POWER-",
+    "•RESET-",
+    "16-BIT",
+    "MULTIPURE",
+    "ON",
+    "MEGA DRIVE SEGA"
+   ],
+   "confidence": 0.95,
+   "valueLow": 64.5,
+   "valueHigh": 165,
+   "valueConfidence": 0.34,
+   "valueMid": 129,
+   "priceBasis": "asking",
+   "priceSummary": "From 13 listings (listings counted below their asking price)",
+   "evidenceCount": 13,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 31,
+    "average": 156.63,
+    "median": 139,
+    "low": 44.99,
+    "high": 318,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 3,
+    "bestOfferExcluded": true,
+    "removedOutliers": 9,
+    "newest": "2026-10-18",
+    "oldest": "2026-07-25",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-10-18",
+      "price": 53.94,
+      "currency": "USD",
+      "title": "Sega Mega Drive 1 / Genesis 1 RGB SCART Cable High Quality Shielded Sega Model 1",
+      "url": "https://www.ebay.com/itm/116227778185?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Brand New"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 82,
+      "currency": "USD",
+      "title": "SEGA Mega Drive Console HAA-2510 VA5 Motherboard Works Perfectly From Japan",
+      "url": "https://www.ebay.com/itm/158308373155?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 258,
+      "currency": "USD",
+      "title": "Mega Drive Console Boxed VA5 - Tested System - SEGA HAA-2510 Ref A10523391",
+      "url": "https://www.ebay.com/itm/318837646031?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-16",
+      "price": 233.65,
+      "currency": "USD",
+      "title": "Ten Key Pad, Model 2701 (Sega Mega Drive)",
+      "url": "https://www.ebay.com/itm/178301665006?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 53.03,
+      "currency": "USD",
+      "title": "Sega Mega Drive Arcade Power Stick Model MK-1655-50 - Fully Tested And Working",
+      "url": "https://www.ebay.com/itm/257585324664?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-14",
+      "price": 159.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console HAA-2510 Controller Megadrive NTSC-J Japan Tested",
+      "url": "https://www.ebay.com/itm/116644221826?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-11",
+      "price": 59.45,
+      "currency": "USD",
+      "title": "SEGA Mega Drive 1 Model 1601-05 PAL 16-Bit Console Only Untested Spares Repair",
+      "url": "https://www.ebay.com/itm/267809634153?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-09",
+      "price": 184.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive  Console NTSC-J Japan Boxed w/ Controller AV Cable Genesis",
+      "url": "https://www.ebay.com/itm/168592767692?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-07",
+      "price": 176.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console HAA-2510 Controllers Megadrive NTSC-J Japan Tested",
+      "url": "https://www.ebay.com/itm/116801841875?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-06",
+      "price": 177.99,
+      "currency": "USD",
+      "title": "RAD2X RetroTink HDMI Adapter for Sega Genesis/Mega Drive. For model 1 and 2.",
+      "url": "https://www.ebay.com/itm/206585585041?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-30",
+      "price": 103,
+      "currency": "USD",
+      "title": "SEGA Mega Drive Console HAA-2510 VA4 Motherboard Works Perfectly From Japan",
+      "url": "https://www.ebay.com/itm/158308373016?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-16",
+      "price": 100.23,
+      "currency": "USD",
+      "title": "Sega Mega Drive Model 1  PAL  with 1 Controller & AV Cable (No Power Lead)",
+      "url": "https://www.ebay.com/itm/137646841522?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-09-15",
+      "price": 80.9,
+      "currency": "USD",
+      "title": "SEGA MEGA DRIVE Console only HAA-2510 NTSC-J Made in Japan Tested",
+      "url": "https://www.ebay.com/itm/398393049370?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-29",
+      "price": 128.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console only HAA-2510 Megadrive NTSC-J Made in Japan Tested",
+      "url": "https://www.ebay.com/itm/116672282670?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-24",
+      "price": 249.1,
+      "currency": "USD",
+      "title": "SEGA Mega Drive Console System Boxed Complete HAA-2510",
+      "url": "https://www.ebay.com/itm/167582997604?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-22",
+      "price": 46.28,
+      "currency": "USD",
+      "title": "Sega Mega Drive Model 1 PAL Console Only Works PLEASE READ US seller",
+      "url": "https://www.ebay.com/itm/198588335572?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-08-22",
+      "price": 75,
+      "currency": "USD",
+      "title": "Genesis/Mega Drive Smoked Transparent Shells [Model 1]",
+      "url": "https://www.ebay.com/itm/128016125938?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": null
+     },
+     {
+      "date": "2026-08-22",
+      "price": 135.65,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console (Model HAA-2510, Japan Version)",
+      "url": "https://www.ebay.com/itm/188734170096?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-18",
+      "price": 250,
+      "currency": "USD",
+      "title": "E+ Condition SEGA Mega Drive Console HAA-2510 VA5 Motherboard with Box Manual",
+      "url": "https://www.ebay.com/itm/158145271718?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-14",
+      "price": 124.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive Model 1 HAA-2510 Console OEM Controller Cables Japan Tested WOW",
+      "url": "https://www.ebay.com/itm/257645357282?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-10",
+      "price": 139.99,
+      "currency": "USD",
+      "title": "SEGA Mega Drive Console HAA-2510 Genesis MD Controller Working Tested Used",
+      "url": "https://www.ebay.com/itm/376054661235?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-08",
+      "price": 318,
+      "currency": "USD",
+      "title": "Excellent SEGA MEGA DRIVE HAA-2510 Home Console w/ Box & Manual Working JP F/S",
+      "url": "https://www.ebay.com/itm/296813615532?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-07",
+      "price": 245,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console HAA-2510 2 Controller Megadrive NTSC-J Tested Working JP",
+      "url": "https://www.ebay.com/itm/317901931727?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-06",
+      "price": 235.99,
+      "currency": "USD",
+      "title": "Sega Mega Drive Console HAA-2510 Box  Megadrive Genesis NTSC-J Japan Tested",
+      "url": "https://www.ebay.com/itm/116523703630?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-04",
+      "price": 108.63,
+      "currency": "USD",
+      "title": "Sega Genesis / Mega Drive Mini Model 1 (NTSC) & Pokemon Card Offer",
+      "url": "https://www.ebay.com/itm/377376867955?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-03",
+      "price": 138,
+      "currency": "USD",
+      "title": "Mega Drive SEGA Console VA7 Original HAA-2510 Tested System Genesis A20666302",
+      "url": "https://www.ebay.com/itm/365730879251?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-01",
+      "price": 53.54,
+      "currency": "USD",
+      "title": "Sega Mega Drive Model 1 PAL 60hz Mod Console Only Works PLEASE READ US seller",
+      "url": "https://www.ebay.com/itm/137575649373?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-08-01",
+      "price": 149,
+      "currency": "USD",
+      "title": "Sega Mega Drive 3 Console + 10 Games 16-Bit Model with Controllers Full Working",
+      "url": "https://www.ebay.com/itm/206367204612?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-30",
+      "price": 264.99,
+      "currency": "USD",
+      "title": "Mega Drive Console Controller VA4 Boxed Tested System SEGA HAA-2510 Japan",
+      "url": "https://www.ebay.com/itm/366423581761?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-25",
+      "price": 44.99,
+      "currency": "USD",
+      "title": "OEM Sega CD Model 2 Base Extender Metal Bracket Model 1 Genesis Cd 2 Megadrive",
+      "url": "https://www.ebay.com/itm/358818803752?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-25",
+      "price": 112,
+      "currency": "USD",
+      "title": "SEGA MEGADRIVE  HAA-2510 console VA1 motherboard only Japanese version",
+      "url": "https://www.ebay.com/itm/168531746481?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay AU",
+     "price": 22.1,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Mega Drive Model 1 Capacitors / 39 x Cap + 2 x Voltage Regulators Kit (incl. 8.44 AUD shipping) (31.64 AUD)",
+     "url": "https://www.ebay.com.au/itm/265166718685?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item3dbd2b06dd:g:HMsAAeSwYaxqWLGL"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 39.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Square Enix SEGA Hardware Mega Drive Console Bright Arts Gallery Mini Figure NEW",
+     "url": "https://www.ebay.com/itm/287372188589?hash=item42e8b79bad:g:cPoAAeSwp8JqIG-K"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 66.3,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Hard Bright Arts Gallery Mega Drive Console Heavy Metal Figure Official (incl. 16.30 USD shipping)",
+     "url": "https://www.ebay.com/itm/267207046362?hash=item3e36c7f4da:g:zmAAAOSwvpxn7CHh"
+    },
+    {
+     "source": "eBay AU",
+     "price": 80.51,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "SEGA Mega Drive Model 1 PAL-I 1601-05 Console + 2 Controllers Untested (incl. 51.96 AUD shipping) (115.24 AUD)",
+     "url": "https://www.ebay.com.au/itm/800734296267?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=itemba6f7bb8cb:g:ghAAAeSwhpxqu1YH"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 87.7,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Square Enix Sega Hardware Bright Arts Gallery Mega Drive Figure R87240386 (incl. 20.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/158122476558?hash=item24d0d5840e:g:c-IAAeSwU7hqZpLC"
+    },
+    {
+     "source": "eBay US",
+     "price": 125,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Mega Drive Genesis Model 1 NTSC-J Japan Console - Region & S-Video Modded!",
+     "url": "https://www.ebay.com/itm/117455836471?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item1b58e9d537:g:rMoAAeSwNhNqyFg7"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 161.6,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Mega Drive Japan Import HAA-2510 (incl. 35.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/257638674679?hash=item3bfc7630f7:g:qAAAAeSwFuJqbVPv"
+    },
+    {
+     "source": "eBay UK",
+     "price": 176.31,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "SEGA Mega Drive MK1 + Controller Japanese HAA-2510 - Excellent Cond (incl. 6.76 GBP shipping) (132.26 GBP)",
+     "url": "https://www.ebay.co.uk/itm/147642804747?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item2260326a0b:g:ErAAAeSwdrhq1il8"
+    },
+    {
+     "source": "eBay UK",
+     "price": 204.04,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "SEGA Mega Drive MK1 + Controller - Japanese HAA-2510 - VA05 -  NEAR PRISTINE 🤯 (incl. 6.76 GBP shipping) (153.06 GBP)",
+     "url": "https://www.ebay.co.uk/itm/257803426303?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item3c064819ff:g:U1AAAeSwR5Vq09GQ"
+    },
+    {
+     "source": "eBay UK",
+     "price": 206.48,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Mega Drive Model 1 Console Boxed NTSC-J Japan HAA-2510 UK Seller (incl. 4.90 GBP shipping) (154.89 GBP)",
+     "url": "https://www.ebay.co.uk/itm/147540417737?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item225a181cc9:g:vLIAAeSw2MxqY6jm"
+    },
+    {
+     "source": "eBay DE",
+     "price": 213.63,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sega Mega Drive Modell 1 Konsole Originalverpackt NTSC-J Japan HAA-2510 UK Verkäufer (incl. 20.10 EUR shipping) (190.32 EUR)",
+     "url": "https://www.ebay.de/itm/147540417737?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item225a181cc9:g:vLIAAeSw2MxqY6jm"
+    },
+    {
+     "source": "eBay US",
+     "price": 298,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "SEGA Mega Drive 2 Console, Japanese Version, NTSC-J, Retro Game, Retro Console",
+     "url": "https://www.ebay.com/itm/237066749514?_skw=Sega+Mega+Drive+Japanese+Model+1+console&hash=item373247864a:g:WfoAAeSwAetqpy5a&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7mImwLwOkaNnp94%2FAaLJT7DVHjuOyLxKm%2FR6Yk39pJ1572mrFL0B1q%2FdCQ%2B%2BBzvsoKbp1k%2B4sjh%2BOzUzGwLxJ4GC0xz%2FGO0wBvLi%2F3AqztwqKeVn9416s2scZOXfR%2Bq%2BUcPwL3wUgU3gYt05ZAdg61hLFDF5gZfHP1%2FmgflWbfIN2sGc1OK%2BiHn%2FGJNMwikc6V23Cxtm66YbSWnhvjDDrryhYFl%2F9OWYn%2FuyH07ljFkL2OH1SWJmhAwzzzJWYd1JhJTVQ8b9vdtom5srlgZrpwUJvn3Txt%2Fl%2BXdsz%2BNi2Jhekx9azhiU1XsLAlSjQt4v2A5jEtv7q6J2QtRBw2JDJEZ"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoSNES",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:47:59.560Z",
+  "datasetID": "game-commons-50627789",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Nintendo-Super-NES-Console-101-FL.jpg",
+  "response": {
+   "title": "Nintendo 1997 Super Nintendo Entertainment System SNES Jr. Model SNS-101 Console",
+   "itemName": "Super Nintendo Entertainment System",
+   "category": "Game",
+   "brand": "Nintendo",
+   "year": 1997,
+   "modelNumber": "SNS-101",
+   "setName": null,
+   "cardNumber": null,
+   "edition": "New-Style",
+   "variant": "SNES Jr. / Mini",
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [],
+   "confidence": 0.98,
+   "valueLow": 69.5,
+   "valueHigh": 110,
+   "valueConfidence": 0.45,
+   "valueMid": 95.5,
+   "priceBasis": "asking",
+   "priceSummary": "From 5 listings (listings counted below their asking price)",
+   "evidenceCount": 5,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 2,
+    "average": 189.6,
+    "median": 189.6,
+    "low": 131.3,
+    "high": 247.9,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 0,
+    "bestOfferExcluded": false,
+    "removedOutliers": 0,
+    "newest": "2026-09-28",
+    "oldest": "2026-08-27",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-09-28",
+      "price": 247.9,
+      "currency": "USD",
+      "title": "90s Super Nintendo Entertainment System MINI SNES Jr Console SNS-101 5 Games",
+      "url": "https://www.ebay.com/itm/398023833395?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-08-27",
+      "price": 131.3,
+      "currency": "USD",
+      "title": "Vtg Super Nintendo Entertainment System MINI SNES Jr Console SNS-101",
+      "url": "https://www.ebay.com/itm/318245358871?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay AU",
+     "price": 83.83,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "SNES Super Nintendo Entertainment System Console (120.00 AUD)",
+     "url": "https://www.ebay.com.au/itm/157646602266?_skw=Nintendo+SNES+Jr+SNS-101+console&hash=item24b478401a:g:pR0AAeSwUUZpe~T9&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k3v6dXGQdJccI7X%2BePAWZHC4IdlAbXt6gfv--nrDaTaArxcrDgClHwwinOtbvCa6zXeDzCKHgbBdvikfo4trEG7jmicfE1ncYjdRhtFDwx9fbOm17E3veRy%2FVkv9i4C4j3SvrwgT2N6Gigm3gGqBvSttTT2WRPoSnRAFjq9It%2BaV%2B%2BE25y83XSbRWBfgCQZV%2Bm72GH%2Fg%2BNCvapu0PsdTzoYb0YWYW96vmcS16I3zZFelpa3ksHVMfWOlrI8yNgfYeu65su9e9HLgyPJ4tjxZOaKr4iSmmaWuG7Z35dMFjopkOgCCJ8hbbmpKg1q7rksAA%3D"
+    },
+    {
+     "source": "eBay UK",
+     "price": 86.65,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Super Nintendo Classic Mini Entertainment System SNES Incl21 Games Inc Ext Wires (65.00 GBP)",
+     "url": "https://www.ebay.co.uk/itm/407299244377?_skw=Super+Nintendo+Entertainment+System+SNES+Jr.+Mini&hash=item5ed4ed4159:g:uwUAAeSwfQFq1Pbh"
+    },
+    {
+     "source": "eBay UK",
+     "price": 119.12,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Nintendo Classic Mini Super Nintendo Entertainment System Mario Zelda SNES (incl. 3.38 GBP shipping) (89.36 GBP)",
+     "url": "https://www.ebay.co.uk/itm/267817905116?_skw=Super+Nintendo+Entertainment+System+SNES+Jr.+Mini&hash=item3e5b30ebdc:g:jk8AAeSwhwlq1hS3"
+    },
+    {
+     "source": "eBay UK",
+     "price": 124.69,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Super Nintendo SNES Classic Mini Nintendo Entertainment System Boxed VGC Ref S4 (incl. 3.55 GBP shipping) (93.54 GBP)",
+     "url": "https://www.ebay.co.uk/itm/287563241155?_skw=Super+Nintendo+Entertainment+System+SNES+Jr.+Mini&hash=item42f41ad6c3:g:f7gAAeSwza9qHGUB"
+    },
+    {
+     "source": "eBay US",
+     "price": 189.95,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "90s Super Nintendo Entertainment System MINI SNES Jr Console SNS-101",
+     "url": "https://www.ebay.com/itm/278244640508?_skw=Super+Nintendo+Entertainment+System+SNES+Jr.+Mini&hash=item40c8ac46fc:g:704AAeSwmFBpvxPU"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ },
+ {
+  "image": "DemoPS1",
+  "condition": "Good",
+  "scannedAt": "2026-10-19T23:48:27.985Z",
+  "datasetID": "game-commons-12371556",
+  "photo": "Wikimedia Commons, Public domain; Evan-Amos",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:PSX-Console-wController.png",
+  "response": {
+   "title": "Sony 1995 PlayStation Console with DualShock Controller",
+   "itemName": "PlayStation",
+   "category": "Game",
+   "brand": "Sony",
+   "year": 1995,
+   "modelNumber": null,
+   "setName": null,
+   "cardNumber": null,
+   "edition": null,
+   "variant": null,
+   "serialNumber": null,
+   "grade": null,
+   "signedBy": null,
+   "barcode": null,
+   "coin": null,
+   "ceramic": null,
+   "detectedText": [
+    "SONY",
+    "PlayStation",
+    "ANOS",
+    "2"
+   ],
+   "confidence": 0.95,
+   "valueLow": 22.5,
+   "valueHigh": 62,
+   "valueConfidence": 0.33,
+   "valueMid": 31,
+   "priceBasis": "asking",
+   "priceSummary": "From 19 listings (listings counted below their asking price)",
+   "evidenceCount": 19,
+   "history": null,
+   "historyLocked": false,
+   "sold": {
+    "count": 55,
+    "average": 241.18,
+    "median": 197.74,
+    "low": 65,
+    "high": 550,
+    "currency": "USD",
+    "windowDays": 90,
+    "sources": [
+     "eBay"
+    ],
+    "bestOfferCount": 13,
+    "bestOfferExcluded": true,
+    "removedOutliers": 13,
+    "newest": "2026-10-19",
+    "oldest": "2026-07-26",
+    "ebayFloorExcluded": false,
+    "match": "similar",
+    "sales": [
+     {
+      "date": "2026-10-19",
+      "price": 65,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 PS4 Black Home Console with 2 Camouflage Controllers",
+      "url": "https://www.ebay.com/itm/336853004794?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 66.7,
+      "currency": "USD",
+      "title": "Sony PlayStation 1 Gray Video Game Console Untested, No Cords or Controller",
+      "url": "https://www.ebay.com/itm/800788351517?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 77.94,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 PS2 Slim Black Console Only - UNTESTED",
+      "url": "https://www.ebay.com/itm/820257004549?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 79.99,
+      "currency": "USD",
+      "title": "Sony PlayStation 3 Slim Console, Tested works, games included, cables included",
+      "url": "https://www.ebay.com/itm/237129650875?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 81.8,
+      "currency": "USD",
+      "title": "Sony PlayStation Classic Mini 2018 HDMI Console Gray, PS1 Games",
+      "url": "https://www.ebay.com/itm/117474841046?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 87.94,
+      "currency": "USD",
+      "title": "Sony PlayStation 3 Slim Console",
+      "url": "https://www.ebay.com/itm/407297682586?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 90,
+      "currency": "USD",
+      "title": "Sony CUH-2215A Playstation 4 500GB Slim - Black FULLY FUNCTIONAL READ READ!!!",
+      "url": "https://www.ebay.com/itm/820256034644?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 92.43,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 PS4 CUH-1115A 500GB White CONSOLE ONLY 1080p Parts only",
+      "url": "https://www.ebay.com/itm/860063172241?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 97.49,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 PS2 Fat Console SCPH-39001 Doesn’t Turn On Parts and Repair",
+      "url": "https://www.ebay.com/itm/327412604683?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 102.3,
+      "currency": "USD",
+      "title": "Used Sony PlayStation 1",
+      "url": "https://www.ebay.com/itm/267813903611?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 109.52,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 PS2 Black Console with Controller and Memory Card UNTESTED",
+      "url": "https://www.ebay.com/itm/407302273429?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 110,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 PS4 500GB Black 2 Controllers",
+      "url": "https://www.ebay.com/itm/366746013554?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 112.51,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 Darth Vader LE Console w/ 2 Controllers & Headset",
+      "url": "https://www.ebay.com/itm/377565574019?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 113.85,
+      "currency": "USD",
+      "title": "Sony PlayStation Classic SCPH-1000R Mini Console 2 Controllers HDMI USB",
+      "url": "https://www.ebay.com/itm/336844735478?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 121.26,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 (500 GB) Home Console - Black",
+      "url": "https://www.ebay.com/itm/198728905958?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 129.99,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 Slim 1TB Black Console w/ Gray DualShock HDMI/USB w/Game",
+      "url": "https://www.ebay.com/itm/128144938496?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 130,
+      "currency": "USD",
+      "title": "Unused Sony PlayStation Portal Remote Player PS5 White/Black CFI-Y1001",
+      "url": "https://www.ebay.com/itm/227574724021?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Open Box"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 132.69,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 White Console/with Controller!",
+      "url": "https://www.ebay.com/itm/800814778483?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 134.62,
+      "currency": "USD",
+      "title": "Sony PlayStation Classic 16GB Gray Console Gaming System SCPH-1000R",
+      "url": "https://www.ebay.com/itm/407274250995?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 135.26,
+      "currency": "USD",
+      "title": "Sony PlayStation 1  PS1 Console SCPH-7501 w/OEM Cables & Controller - Tested",
+      "url": "https://www.ebay.com/itm/137157547623?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 135.54,
+      "currency": "USD",
+      "title": "Sony Playstation Two SCH-30001 PS2 Parts.Console And Cabels Only.",
+      "url": "https://www.ebay.com/itm/940026536608?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Parts Only"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 151.88,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 CUH-1115A 500GB Black Console",
+      "url": "https://www.ebay.com/itm/137858087726?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 152.41,
+      "currency": "USD",
+      "title": "PlayStation 2 SCPH 39001 CONSOLE ONLY - TESTED & WORKS",
+      "url": "https://www.ebay.com/itm/377580162673?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 161.5,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 Slim with Controller and Cables OEM Memory Card, Game-Tested",
+      "url": "https://www.ebay.com/itm/860041275037?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 164.76,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 Pro PS4 Black Console Gaming System CUH-7215B",
+      "url": "https://www.ebay.com/itm/407285833175?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 170.24,
+      "currency": "USD",
+      "title": "Sony PlayStation 3 PS3 Slim 160GB CECH-3001A Console",
+      "url": "https://www.ebay.com/itm/327379054992?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 187.4,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 500GB, PS4 Console Only, Black, 1080p, Tested Works Clean",
+      "url": "https://www.ebay.com/itm/298494423073?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 187.72,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 500gb Jet Black Console Tested",
+      "url": "https://www.ebay.com/itm/800814214970?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 190.83,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 PS2 SCPH-50001 Phat Console Controller Memory Card Tested",
+      "url": "https://www.ebay.com/itm/147641251862?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 201.3,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 PS4 Pro 1TB Console Black w/ Blue Controller HDMI Power Cable",
+      "url": "https://www.ebay.com/itm/860048283010?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 204.65,
+      "currency": "USD",
+      "title": "PlayStation Classic Mini Console CIB  Sealed",
+      "url": "https://www.ebay.com/itm/407283773552?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Brand New"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 219.25,
+      "currency": "USD",
+      "title": "Sony CUH-2215B PlayStation 4 1TB Console Only (FW 13.02)",
+      "url": "https://www.ebay.com/itm/227574571904?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 253.63,
+      "currency": "USD",
+      "title": "SONY PlayStation 4 PS4 Slim 1TB Console Black SPB JA-373389",
+      "url": "https://www.ebay.com/itm/257803529248?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 272.08,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 Slim PS4 1TB Call of Duty WWII Limited Edition Console",
+      "url": "https://www.ebay.com/itm/287652916284?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 272.1,
+      "currency": "USD",
+      "title": "Sony PlayStation Vita OLED Console PCH-1000 4gb Memory Card Small Screen Defect",
+      "url": "https://www.ebay.com/itm/117327975638?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 305,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Home Console w/ DualSense Controller White/Black HDMI",
+      "url": "https://www.ebay.com/itm/237132976350?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 320.09,
+      "currency": "USD",
+      "title": "Sony PlayStation 3 Super Slim 500 Gb Console With Eight Games ￼",
+      "url": "https://www.ebay.com/itm/168802937759?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 325.35,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 Home Console - Purple w/ 2 Clear Controllers",
+      "url": "https://www.ebay.com/itm/366745977623?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 330,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Home Console Purple Cover w/ Purple DualSense Controller",
+      "url": "https://www.ebay.com/itm/336852855959?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 349.5,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 Disc Edition 825GB Home Console - White",
+      "url": "https://www.ebay.com/itm/204805934772?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 349.99,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 Disc Edition 825GB Home Console - White",
+      "url": "https://www.ebay.com/itm/287659265717?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 400,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Home Console w/ Controller & HEADSET",
+      "url": "https://www.ebay.com/itm/237129345298?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 421.08,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Home Console White/Black DualSense Controller USB Cable",
+      "url": "https://www.ebay.com/itm/377583251870?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 435,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 White Disc Console Blu-Ray w/ 2 DualSense Controllers",
+      "url": "https://www.ebay.com/itm/366745830361?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 436.03,
+      "currency": "USD",
+      "title": "SONY PS5 - PLAYSTATION 5 - SYSTEM - SLIM - CFI-2015",
+      "url": "https://www.ebay.com/itm/168793107188?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 445,
+      "currency": "USD",
+      "title": "PlayStation 5 Slim Disc Console White + Controller + Elden Ring",
+      "url": "https://www.ebay.com/itm/158330367863?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 460,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Disc Edition (Black Plates) + 2 Controllers & Cables",
+      "url": "https://www.ebay.com/itm/237132791107?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 465,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Home Console w/ DualSense Wireless Controller White/Black",
+      "url": "https://www.ebay.com/itm/940009499674?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 475.85,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 Disc Console 825GB 4K w DualSense, Cables & COD MWII",
+      "url": "https://www.ebay.com/itm/327413434051?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-19",
+      "price": 550,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 Spider-Man Disc Edition",
+      "url": "https://www.ebay.com/itm/920055117863?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 157.89,
+      "currency": "USD",
+      "title": "Sony PlayStation 4 PS4 1TB Black Console Gaming System CUH-7015B",
+      "url": "https://www.ebay.com/itm/147640194245?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-18",
+      "price": 317.48,
+      "currency": "USD",
+      "title": "Sony PlayStation 5 PS5 PlayStation Portal White CFI-Y1001",
+      "url": "https://www.ebay.com/itm/860051847330?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-16",
+      "price": 107.75,
+      "currency": "USD",
+      "title": "Sony PlayStation 3 PS3 Slim Console Black CECH-2501A Storage Unknown",
+      "url": "https://www.ebay.com/itm/168796871613?nordt=true",
+      "source": "eBay",
+      "bestOffer": true,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-10-02",
+      "price": 260.36,
+      "currency": "USD",
+      "title": "Sony PlayStation 2 PS2 Fat Console SCPH-30001 OEM Controller 8MB Memory Card",
+      "url": "https://www.ebay.com/itm/128110978382?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     },
+     {
+      "date": "2026-07-26",
+      "price": 92.95,
+      "currency": "USD",
+      "title": "Sony PlayStation 1 Classic Mini PS1 SCPH-1000R Console Only Tested Working",
+      "url": "https://www.ebay.com/itm/127727525019?nordt=true",
+      "source": "eBay",
+      "bestOffer": false,
+      "condition": "Pre-Owned"
+     }
+    ],
+    "salesLocked": 0
+   },
+   "fx": {
+    "date": "2026-10-19",
+    "source": "ECB",
+    "perUSD": {
+     "USD": 1,
+     "EUR": 0.89087,
+     "GBP": 0.75016,
+     "CAD": 1.4074,
+     "AUD": 1.4314,
+     "CHF": 0.82503,
+     "JPY": 158.24,
+     "SEK": 9.8922,
+     "NOK": 9.4036,
+     "DKK": 6.659,
+     "PLN": 3.8943,
+     "NZD": 1.7632
+    }
+   },
+   "priceKeys": null,
+   "regime": "openEnded",
+   "comparableMatch": "similar",
+   "attributes": [],
+   "ocreCandidates": [],
+   "comparables": [
+    {
+     "source": "eBay AU",
+     "price": 18.84,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony Playstation 1 Controller Stand Grey and White ps1 DualShock Version Display (26.97 AUD)",
+     "url": "https://www.ebay.com.au/itm/396642970389?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item5c59c36b15:g:ln8AAOSwQsRoLvCa&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7lKVEfjZsqRrZAdXZCScTxhcU49HS6xpoH9Rgc%2BJ5%2Bhu1%2F4F3GmaQAb5tybNPg65PQKgzDkyVwg%2FJV%2FD63uQbz6L09Vjml4Sb7EiV57UiUVH8a4sa6DvXT3tPBvqkMudXweuXmUIa0DreW%2FecR7c8zt3p4Uq%2BWdfdfAMS0%2FLGHvJcOZsQDo5BtYtQZtr30TgwrVrlCpj1%2BoR%2Bv5N5EqIeZByT2Zu3FQDB1Wd6EmpEMTc%2Fz1wrPoL22TqKS%2BO9xX7l48Y8iuysMEJsE%2Bs5gbxBQnyxXiKILlyM1rpl14b7W9scWvgfQ0%2FSc4qdC88OHObacG%2BzdeBpnyv4PFCXEdMQA3"
+    },
+    {
+     "source": "eBay AU",
+     "price": 23.75,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony PlayStation 1 PS1 Controller OEM Original Grey DualShock & Standard Pad (incl. 10.00 AUD shipping) (34.00 AUD)",
+     "url": "https://www.ebay.com.au/itm/306950683577?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item4777afbbb9:g:MXsAAeSwf8FqDa4u"
+    },
+    {
+     "source": "eBay US",
+     "price": 25.99,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony PlayStation 1 One PS1 Gray DualShock Analog Controller SCPH-1200",
+     "url": "https://www.ebay.com/itm/168787869110?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item274c8a7db6:g:n5sAAeSw0odpDMD~&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7mxqMJyRrajyBgaeHfFpx08nybN%2FwLtFgm9d9s9B1gYvcEEa%2FcqI4KbDK1kH6FRPmC08Os6LY5lhIOnD3A%2F%2BYFOuwJqKLN%2BjcmK8mRiGBCCLuRnGZYhHi1y6ixYRSK0%2Bldd2u4kT3PlcKbRgXINgOBPXPQ2fInv7r0%2F0JiYhPBxbLB9VRIkmQr15ralvw6vKCe1sv%2FcXs7itTaLiQ9udjSk1FnuF47SyPU3uGH2uTPA7mK%2Bhal5SfRah6QLV%2FbHan8mTaUWkQ4T%2FWk58hrWgDEOEKYxwS3%2BCsvfAZErTXwu%2FZZuF3AW78DPRftlukLqb9lmsgTbfs5hJTQVv1WVDpvo"
+    },
+    {
+     "source": "eBay DE",
+     "price": 28.01,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony Playstation 1 | PS1 Controller Schwarz *SEHR GUT* | BLITZVERSAND (24.95 EUR)",
+     "url": "https://www.ebay.de/itm/366548447687?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item5557fd71c7:g:Zo0AAeSwFKNqWjHm"
+    },
+    {
+     "source": "eBay FR",
+     "price": 30.2,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "✅Manette PS1 Console Playstation 1 Officielle Controller Ps One Pad Testé Ok (incl. 3.95 EUR shipping) (26.90 EUR)",
+     "url": "https://www.ebay.fr/itm/178527103408?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item29910b69b0:g:w3sAAeSwZOJqKYsu&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7k6qgtCgs3ch%2FOA1XSFI%2F8fDcagT5%2FJrk9E2SIYEASXe%2Bn255m39qv0C%2B0yRlMSabkP5wPXl8IaI3skHYGRhP5jXoqMZad3Nk3krDFmMvnvUCMAVwQleZoP7rIjyOmkZ6ziYR%2Blf5VthjqOdlRT73T6UPr8N6OgEFYEDZRpuvr%2Brznuhwz%2BoflAwq2UwaqEZsB8dulqRY1rtwW%2FaeljmjDvEMktL0WBOn8pXlBXYW7zz%2FBDRxLqSOBx0%2F2XOpT9OWklfOTcPVHPUrI30BEQJOpPK4eD4d2Ske65DGjC0mhwA1M3x7v%2FPYVEMb63vNp53fUTdg%2BG4MibojHQvdw%2BDGVA"
+    },
+    {
+     "source": "eBay DE",
+     "price": 33.62,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "PS / PlayStation (PS1 / PSX / PS ONE) ORIGINAL Controller 🎮✅ GamePad Auswahl (29.95 EUR)",
+     "url": "https://www.ebay.de/itm/225010955343?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item3463b2b44f:g:avIAAeSwu~1q0iqS&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7nATbTjaN92NFcRMjmAdXhel5i8IiNX2WpQ0D2G8bumWO19023bHcdy1gzE04vu1ROihDB2fz47ue4u4RSYFK6Rro5XdbT1QzfQvdrK1EVnV1CnNQUnA%2FG%2B3yiSDk6NUyNRkaaRqcES3tX8GywbIpjOsoxoCBUXmhLWr5XnIc8Jf8XUYsbL9V42JwOHFw8HytREZ42ztBUvD%2BZHxMt643KkNp3f5p%2B1GBHQWDV1LcmVrIHUpEHwwWif1NJ2F5UbRwGFb7yqvqz4QDPiKHhd0bdMUhGChsOIpyfNT%2BhvAE6TJWr4bNQzrLW64w6MJi1vbQMLjz5K56Xf0l6fM1Y%2F0FFf"
+    },
+    {
+     "source": "eBay UK",
+     "price": 39.01,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Official Sony Playstation 1 DualShock Controller Brand New Sealed Japan import (incl. 2.26 GBP shipping) (29.26 GBP)",
+     "url": "https://www.ebay.co.uk/itm/820223622316?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=itembef9233cac:g:2uYAAeSwGLdqygd9"
+    },
+    {
+     "source": "eBay FR",
+     "price": 41.42,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "✅Manette PS1 Officielle Console Playstation 1 Controller Ps One Joypad Joystick (incl. 3.95 EUR shipping) (36.90 EUR)",
+     "url": "https://www.ebay.fr/itm/880001602568?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=itemcce42ed408:g:XvkAAeSwLTZqySNh&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7lD42amTZiZdTyr6fM26xEBCfsebZFQCrfliBKAo7Fz3WOKDOmJSuqsezpgJkD8VEdTCB8xCGw4bf3amu%2FxL2kWQwBkcwPykUtbY6MBbuyteXVmLtZJK3esuHTWhjSHR%2F4lmim%2FatkHOQz5A6LxCPUxhzHiT1I2RcETrTAGtSK%2BqEaC50j7CrqGQXdeH1rgBUk8W5lH2TeeylELTtE9x%2FyVjBuhPA%2BIluZm1PAX3Y5t8fYiy9GNqbCdokTu%2FsQrHMpgESoGhe3x2dk6p6Ii0rfy5iEYKalsNWS%2BHci0P3yARtg0b4NBvIuWb40qOjbkkTlkDv9o94JVuieewkmuSoXN"
+    },
+    {
+     "source": "eBay UK",
+     "price": 67.83,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony PlayStation 1 PS1 Console SCPH-9002 PAL Grey with DualShock Controller (incl. 3.38 GBP shipping) (50.88 GBP)",
+     "url": "https://www.ebay.co.uk/itm/407276846464?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item5ed3977d80:g:~skAAeSwQ~Rqx~aS&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7kghTL83XICi0fy%2BAlm2x8yuk%2FMzFGpxEBVmzugK1%2FoNNvsV6RnrFWU0FehFQYWbtdUgbeEogY6YYNUuaaV4vyWhtFS75pdzUpJEypD2Zh2qh5f59AZ7cz9k6h5tSbwgWw8cMEV6OM85IUJ8ExkvSaLdJXh%2F2qHcfrKdGktTdxLNLZq%2FItgvVs70PrXssOwxk8HPdq6St82kX3xYoR17c7MXYNJM9%2FaFWzwUBsoHUDCeO5qbf8IyU45LN8wmmKUAtZl1P7sNN3lTuaSHLwAaMj2E%2F71MI547Ocq%2BrxVVlAqZK3soSTKthbDk5wZDf8qm9WKUsFptqLVAnU%2BftffhjlO"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 68.62,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "BEST HIT CHRONICLE “PlayStation” SCPH-1000 2/5 Color-coded plastic model",
+     "url": "https://www.ebay.com/itm/225417232852?hash=item347bea01d4:g:MA0AAOSwJwRj6NJ8"
+    },
+    {
+     "source": "eBay US (image match)",
+     "price": 96.27,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "New [Toy] BANDAI BEST HIT CHRONICLE PlayStation [SCPH-1000] 2/5 Model Kit Japan (incl. 40.00 USD shipping)",
+     "url": "https://www.ebay.com/itm/126989574081?hash=item1d912b1fc1:g:kf4AAeSwb91n0ZCa"
+    },
+    {
+     "source": "eBay US",
+     "price": 110,
+     "currency": "USD",
+     "priceType": "asking",
+     "note": "Sony PlayStation 1 PS1 PSone OEM Controller FACTORY SEALED Gray",
+     "url": "https://www.ebay.com/itm/237132369456?_skw=Sony+PlayStation+PS1+console+DualShock+controller&hash=item373630ce30:g:cZcAAeSwXS1qttz4&amdata=enc%3AAQALAAABEOf5zIIojhOf%2BkQK%2Bxzjn7lPDCx9mYjnBlIxF3M5wlACdAakqSYz8kCdw9WzPUc3nSXzFVnOfUQs1jYHRf3v3h80Qife8ELYbg6OBZ5qyyBFoE7yHI4Lh1OzlO%2F0JYtNCZRgR1CPADDJJvKS8EDdhlr%2BU%2BFficOqe3GOkNVf%2BYU3wCtUS7W3eWvrbkiBVkfJBVRbczWE2vMIvw6%2B4cicIXr0Rg4za2uADuooo%2FUrWPkeijN%2B0bBM0mbLBMUnXHjlsy4vhK9XwRDjslscVgDXdENrzf5ZZn06dEFmQIuOYREWHQXCd9fFbPFxg4BcJGB7tcmUmzj7HFUEPZLTdYmY%2Bh1Ne0S0rMy%2FAREUnpxdM2An"
+    }
+   ],
+   "comparablesLocked": 0,
+   "lockedSources": [],
+   "verification": {
+    "catalog": "skipped",
+    "lens": "not_needed",
+    "lensDecision": null,
+    "source": null
+   }
+  }
+ }
+]

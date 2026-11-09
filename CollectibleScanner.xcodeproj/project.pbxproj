@@ -1,0 +1,781 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04AA7AB32F37E3F900893325 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 04AA7AB22F37E3F900893325 /* RevenueCat */; };
+		04AA7AB52F37E49200893325 /* SubscriptionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA7AB42F37E49200893325 /* SubscriptionManager.swift */; };
+		04BB8AC12F40000000000001 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BB8AC02F40000000000001 /* AuthManager.swift */; };
+		04D4234C30190D5000C46FE1 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04D4234B30190D5000C46FE1 /* StoreKit.framework */; };
+		73F8DCBA84A8B373AAEFC23D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B355E5EBF5591B1BBB1BD1F2 /* Foundation.framework */; };
+		770E5A2C072A3C11E8A8F384 /* DemoData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168AD7F96FD4290C1B348FBE /* DemoData.swift */; };
+		929C1C7E4130D6D1D06B75AE /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC0615A90485CB3B9DFD2B3 /* SnapshotHelper.swift */; };
+		9D58C2879BE01B7E472FBDFC /* ScreenshotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 110873615397772500A8DE90 /* ScreenshotTests.swift */; };
+		A00000000000000000000031 /* CollectibleScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000021 /* CollectibleScannerApp.swift */; };
+		A00000000000000000000032 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000022 /* ContentView.swift */; };
+		A00000000000000000000033 /* CollectibleModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000023 /* CollectibleModels.swift */; };
+		A00000000000000000000034 /* VisionScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000024 /* VisionScanner.swift */; };
+		A00000000000000000000035 /* CollectibleAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000025 /* CollectibleAnalyzer.swift */; };
+		A00000000000000000000036 /* ValueEstimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000026 /* ValueEstimator.swift */; };
+		A00000000000000000000037 /* ScannerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000027 /* ScannerViewModel.swift */; };
+		A00000000000000000000038 /* ResultSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000028 /* ResultSectionView.swift */; };
+		A00000000000000000000039 /* CameraPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000029 /* CameraPicker.swift */; };
+		A0000000000000000000003A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0000000000000000000002A /* Assets.xcassets */; };
+		A0000000000000000000003C /* OnboardingFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0000000000000000000002E /* OnboardingFlowView.swift */; };
+		A0000000000000000000003D /* SavedCollectible.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0000000000000000000002F /* SavedCollectible.swift */; };
+		A0000000000000000000003E /* CollectionStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000030 /* CollectionStore.swift */; };
+		A0000000000000000000003F /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000040 /* CollectionView.swift */; };
+		A00000000000000000000042 /* CollectorTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000041 /* CollectorTheme.swift */; };
+		A00000000000000000000044 /* APIAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000043 /* APIAnalyzer.swift */; };
+		A00000000000000000000046 /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000045 /* AppConfig.swift */; };
+		A00000000000000000000048 /* Telemetry.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000047 /* Telemetry.swift */; };
+		A00000000000000000000051 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000050 /* PrivacyInfo.xcprivacy */; };
+		A00000000000000000000065 /* CollectibleAnalyzerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000062 /* CollectibleAnalyzerTests.swift */; };
+		A00000000000000000000066 /* ValueEstimatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000063 /* ValueEstimatorTests.swift */; };
+		A00000000000000000000067 /* CollectionExportTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000064 /* CollectionExportTests.swift */; };
+		A000000000000000000000B1 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A1 /* AppSettings.swift */; };
+		A000000000000000000000B2 /* AIConsentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A2 /* AIConsentView.swift */; };
+		A000000000000000000000B3 /* AppleSignInButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A3 /* AppleSignInButton.swift */; };
+		A000000000000000000000B4 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A4 /* SettingsView.swift */; };
+		A000000000000000000000B5 /* CreditStoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A5 /* CreditStoreView.swift */; };
+		A000000000000000000000B6 /* HomeTipCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000000000000000000000A6 /* HomeTipCard.swift */; };
+		D5D6CBFD92E9CD05446B3947 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0000000000000000000002C /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A00000000000000000000070 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A00000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A00000000000000000000010;
+			remoteInfo = CollectibleScanner;
+		};
+		E6138A9B0E6BB7DAC585A160 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A00000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A00000000000000000000010;
+			remoteInfo = CollectibleScanner;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C0FF1CE0000000000000A001 /* App.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = App.xcconfig; path = Config/App.xcconfig; sourceTree = "<group>"; };
+		04AA7AB42F37E49200893325 /* SubscriptionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionManager.swift; sourceTree = "<group>"; };
+		04BB8AC02F40000000000001 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
+		04D4234B30190D5000C46FE1 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		04D4234D30190E9900C46FE1 /* Products.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Products.storekit; sourceTree = "<group>"; };
+		110873615397772500A8DE90 /* ScreenshotTests.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScreenshotTests.swift; sourceTree = "<group>"; };
+		168AD7F96FD4290C1B348FBE /* DemoData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DemoData.swift; sourceTree = "<group>"; };
+		3AC0615A90485CB3B9DFD2B3 /* SnapshotHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SnapshotHelper.swift; sourceTree = "<group>"; };
+		A00000000000000000000011 /* CollectibleScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectibleScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A00000000000000000000021 /* CollectibleScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectibleScannerApp.swift; sourceTree = "<group>"; };
+		A00000000000000000000022 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A00000000000000000000023 /* CollectibleModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectibleModels.swift; sourceTree = "<group>"; };
+		A00000000000000000000024 /* VisionScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionScanner.swift; sourceTree = "<group>"; };
+		A00000000000000000000025 /* CollectibleAnalyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectibleAnalyzer.swift; sourceTree = "<group>"; };
+		A00000000000000000000026 /* ValueEstimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueEstimator.swift; sourceTree = "<group>"; };
+		A00000000000000000000027 /* ScannerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewModel.swift; sourceTree = "<group>"; };
+		A00000000000000000000028 /* ResultSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultSectionView.swift; sourceTree = "<group>"; };
+		A00000000000000000000029 /* CameraPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPicker.swift; sourceTree = "<group>"; };
+		A0000000000000000000002A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A0000000000000000000002B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0000000000000000000002C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A0000000000000000000002E /* OnboardingFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFlowView.swift; sourceTree = "<group>"; };
+		A0000000000000000000002F /* SavedCollectible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedCollectible.swift; sourceTree = "<group>"; };
+		A00000000000000000000030 /* CollectionStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionStore.swift; sourceTree = "<group>"; };
+		A00000000000000000000040 /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
+		A00000000000000000000041 /* CollectorTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectorTheme.swift; sourceTree = "<group>"; };
+		A00000000000000000000043 /* APIAnalyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIAnalyzer.swift; sourceTree = "<group>"; };
+		A00000000000000000000045 /* AppConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
+		A00000000000000000000047 /* Telemetry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Telemetry.swift; sourceTree = "<group>"; };
+		A00000000000000000000049 /* CollectibleScanner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CollectibleScanner.entitlements; sourceTree = "<group>"; };
+		A00000000000000000000050 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		A00000000000000000000060 /* CollectibleScannerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectibleScannerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A00000000000000000000062 /* CollectibleAnalyzerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectibleAnalyzerTests.swift; sourceTree = "<group>"; };
+		A00000000000000000000063 /* ValueEstimatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueEstimatorTests.swift; sourceTree = "<group>"; };
+		A00000000000000000000064 /* CollectionExportTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionExportTests.swift; sourceTree = "<group>"; };
+		A000000000000000000000A1 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
+		A000000000000000000000A2 /* AIConsentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIConsentView.swift; sourceTree = "<group>"; };
+		A000000000000000000000A3 /* AppleSignInButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleSignInButton.swift; sourceTree = "<group>"; };
+		A000000000000000000000A4 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		A000000000000000000000A5 /* CreditStoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditStoreView.swift; sourceTree = "<group>"; };
+		A000000000000000000000A6 /* HomeTipCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTipCard.swift; sourceTree = "<group>"; };
+		B355E5EBF5591B1BBB1BD1F2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		B4344EE76BA8BBEAE90D542A /* CollectibleScannerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectibleScannerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A4C9643012D30511AEBF0D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				73F8DCBA84A8B373AAEFC23D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00000000000000000000013 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04AA7AB32F37E3F900893325 /* RevenueCat in Frameworks */,
+				04D4234C30190D5000C46FE1 /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00000000000000000000069 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04D4234A30190D5000C46FE1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04D4234B30190D5000C46FE1 /* StoreKit.framework */,
+				A6F6A997B6C3990C4F416B12 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		937374423348C2CA4330620D /* CollectibleScannerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				110873615397772500A8DE90 /* ScreenshotTests.swift */,
+				3AC0615A90485CB3B9DFD2B3 /* SnapshotHelper.swift */,
+			);
+			name = CollectibleScannerUITests;
+			path = CollectibleScannerUITests;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000002 = {
+			isa = PBXGroup;
+			children = (
+				C0FF1CE0000000000000A001 /* App.xcconfig */,
+				04D4234D30190E9900C46FE1 /* Products.storekit */,
+				A00000000000000000000004 /* CollectibleScanner */,
+				A00000000000000000000061 /* CollectibleScannerTests */,
+				04D4234A30190D5000C46FE1 /* Frameworks */,
+				A00000000000000000000003 /* Products */,
+				937374423348C2CA4330620D /* CollectibleScannerUITests */,
+			);
+			sourceTree = "<group>";
+		};
+		A00000000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A00000000000000000000011 /* CollectibleScanner.app */,
+				A00000000000000000000060 /* CollectibleScannerTests.xctest */,
+				B4344EE76BA8BBEAE90D542A /* CollectibleScannerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000004 /* CollectibleScanner */ = {
+			isa = PBXGroup;
+			children = (
+				A00000000000000000000021 /* CollectibleScannerApp.swift */,
+				A00000000000000000000045 /* AppConfig.swift */,
+				A00000000000000000000022 /* ContentView.swift */,
+				A00000000000000000000005 /* Models */,
+				A00000000000000000000006 /* Services */,
+				A00000000000000000000007 /* ViewModels */,
+				A00000000000000000000008 /* Views */,
+				A0000000000000000000002A /* Assets.xcassets */,
+				A0000000000000000000002B /* Info.plist */,
+				A00000000000000000000049 /* CollectibleScanner.entitlements */,
+				A00000000000000000000050 /* PrivacyInfo.xcprivacy */,
+				A00000000000000000000009 /* Preview Content */,
+			);
+			path = CollectibleScanner;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000005 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A00000000000000000000023 /* CollectibleModels.swift */,
+				A0000000000000000000002F /* SavedCollectible.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000006 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				A000000000000000000000A1 /* AppSettings.swift */,
+				04BB8AC02F40000000000001 /* AuthManager.swift */,
+				04AA7AB42F37E49200893325 /* SubscriptionManager.swift */,
+				A00000000000000000000024 /* VisionScanner.swift */,
+				A00000000000000000000025 /* CollectibleAnalyzer.swift */,
+				A00000000000000000000026 /* ValueEstimator.swift */,
+				A00000000000000000000030 /* CollectionStore.swift */,
+				A00000000000000000000043 /* APIAnalyzer.swift */,
+				A00000000000000000000047 /* Telemetry.swift */,
+				168AD7F96FD4290C1B348FBE /* DemoData.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000007 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				A00000000000000000000027 /* ScannerViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000008 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A000000000000000000000A2 /* AIConsentView.swift */,
+				A000000000000000000000A3 /* AppleSignInButton.swift */,
+				A000000000000000000000A4 /* SettingsView.swift */,
+				A000000000000000000000A5 /* CreditStoreView.swift */,
+				A000000000000000000000A6 /* HomeTipCard.swift */,
+				A00000000000000000000028 /* ResultSectionView.swift */,
+				A00000000000000000000029 /* CameraPicker.swift */,
+				A0000000000000000000002E /* OnboardingFlowView.swift */,
+				A00000000000000000000040 /* CollectionView.swift */,
+				A00000000000000000000041 /* CollectorTheme.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A00000000000000000000009 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A0000000000000000000002C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A00000000000000000000061 /* CollectibleScannerTests */ = {
+			isa = PBXGroup;
+			children = (
+				A00000000000000000000062 /* CollectibleAnalyzerTests.swift */,
+				A00000000000000000000063 /* ValueEstimatorTests.swift */,
+				A00000000000000000000064 /* CollectionExportTests.swift */,
+			);
+			path = CollectibleScannerTests;
+			sourceTree = "<group>";
+		};
+		A6F6A997B6C3990C4F416B12 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				B355E5EBF5591B1BBB1BD1F2 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A00000000000000000000010 /* CollectibleScanner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A00000000000000000000015 /* Build configuration list for PBXNativeTarget "CollectibleScanner" */;
+			buildPhases = (
+				A00000000000000000000071 /* Check release config */,
+				A00000000000000000000012 /* Sources */,
+				A00000000000000000000013 /* Frameworks */,
+				A00000000000000000000014 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CollectibleScanner;
+			productName = CollectibleScanner;
+			productReference = A00000000000000000000011 /* CollectibleScanner.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A0000000000000000000006B /* CollectibleScannerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0000000000000000000006C /* Build configuration list for PBXNativeTarget "CollectibleScannerTests" */;
+			buildPhases = (
+				A00000000000000000000068 /* Sources */,
+				A00000000000000000000069 /* Frameworks */,
+				A0000000000000000000006A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A0000000000000000000006F /* PBXTargetDependency */,
+			);
+			name = CollectibleScannerTests;
+			productName = CollectibleScannerTests;
+			productReference = A00000000000000000000060 /* CollectibleScannerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FFE2462AD9A1BE5E2F23CCD8 /* CollectibleScannerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 80A0ED72302F39AF5CBC6EE9 /* Build configuration list for PBXNativeTarget "CollectibleScannerUITests" */;
+			buildPhases = (
+				EC9C674B0F4CD4EC46D8925D /* Sources */,
+				9A4C9643012D30511AEBF0D5 /* Frameworks */,
+				CB782B4B883BD758CFD7EE5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				324D96B8F3CB18E438234F8E /* PBXTargetDependency */,
+			);
+			name = CollectibleScannerUITests;
+			productName = CollectibleScannerUITests;
+			productReference = B4344EE76BA8BBEAE90D542A /* CollectibleScannerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A00000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					A00000000000000000000010 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					A0000000000000000000006B = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A00000000000000000000010;
+					};
+				};
+			};
+			buildConfigurationList = A00000000000000000000016 /* Build configuration list for PBXProject "CollectibleScanner" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A00000000000000000000002;
+			packageReferences = (
+				04AA7AB12F37E3F900893325 /* XCRemoteSwiftPackageReference "purchases-ios" */,
+			);
+			productRefGroup = A00000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A00000000000000000000010 /* CollectibleScanner */,
+				A0000000000000000000006B /* CollectibleScannerTests */,
+				FFE2462AD9A1BE5E2F23CCD8 /* CollectibleScannerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A00000000000000000000014 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0000000000000000000003A /* Assets.xcassets in Resources */,
+				A00000000000000000000051 /* PrivacyInfo.xcprivacy in Resources */,
+				D5D6CBFD92E9CD05446B3947 /* Preview Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0000000000000000000006A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB782B4B883BD758CFD7EE5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A00000000000000000000071 /* Check release config */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check release config";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# TestFlight and the App Store both build the Release configuration, so a\n# forgotten placeholder ships as a working install that can neither scan nor\n# sell anything. Fail the build instead.\nif [ \"$CONFIGURATION\" = \"Release\" ]; then\n  CONFIG_FILE=\"$SRCROOT/CollectibleScanner/AppConfig.swift\"\n  if grep -q 'REPLACE-WITH\\|REPLACE_WITH' \"$CONFIG_FILE\"; then\n    echo \"error: AppConfig.swift still contains placeholders. Fill productionBaseURL and revenueCatPublicKey before archiving.\"\n    exit 1\n  fi\n  if [ -z \"$APP_SHARED_SECRET\" ]; then\n    echo \"warning: APP_SHARED_SECRET is empty. Copy Config/Secrets.example.xcconfig to Config/Secrets.xcconfig and fill it in.\"\n  fi\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A00000000000000000000012 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A000000000000000000000B1 /* AppSettings.swift in Sources */,
+				A000000000000000000000B2 /* AIConsentView.swift in Sources */,
+				A000000000000000000000B3 /* AppleSignInButton.swift in Sources */,
+				A000000000000000000000B4 /* SettingsView.swift in Sources */,
+				A000000000000000000000B5 /* CreditStoreView.swift in Sources */,
+				A000000000000000000000B6 /* HomeTipCard.swift in Sources */,
+				A00000000000000000000031 /* CollectibleScannerApp.swift in Sources */,
+				A00000000000000000000032 /* ContentView.swift in Sources */,
+				A00000000000000000000033 /* CollectibleModels.swift in Sources */,
+				A00000000000000000000034 /* VisionScanner.swift in Sources */,
+				04BB8AC12F40000000000001 /* AuthManager.swift in Sources */,
+				04AA7AB52F37E49200893325 /* SubscriptionManager.swift in Sources */,
+				A00000000000000000000035 /* CollectibleAnalyzer.swift in Sources */,
+				A00000000000000000000036 /* ValueEstimator.swift in Sources */,
+				A00000000000000000000037 /* ScannerViewModel.swift in Sources */,
+				A00000000000000000000038 /* ResultSectionView.swift in Sources */,
+				A00000000000000000000039 /* CameraPicker.swift in Sources */,
+				A0000000000000000000003C /* OnboardingFlowView.swift in Sources */,
+				A0000000000000000000003D /* SavedCollectible.swift in Sources */,
+				A0000000000000000000003E /* CollectionStore.swift in Sources */,
+				A0000000000000000000003F /* CollectionView.swift in Sources */,
+				A00000000000000000000042 /* CollectorTheme.swift in Sources */,
+				A00000000000000000000044 /* APIAnalyzer.swift in Sources */,
+				A00000000000000000000046 /* AppConfig.swift in Sources */,
+				A00000000000000000000048 /* Telemetry.swift in Sources */,
+				770E5A2C072A3C11E8A8F384 /* DemoData.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00000000000000000000068 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A00000000000000000000065 /* CollectibleAnalyzerTests.swift in Sources */,
+				A00000000000000000000066 /* ValueEstimatorTests.swift in Sources */,
+				A00000000000000000000067 /* CollectionExportTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC9C674B0F4CD4EC46D8925D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D58C2879BE01B7E472FBDFC /* ScreenshotTests.swift in Sources */,
+				929C1C7E4130D6D1D06B75AE /* SnapshotHelper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		324D96B8F3CB18E438234F8E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CollectibleScanner;
+			target = A00000000000000000000010 /* CollectibleScanner */;
+			targetProxy = E6138A9B0E6BB7DAC585A160 /* PBXContainerItemProxy */;
+		};
+		A0000000000000000000006F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A00000000000000000000010 /* CollectibleScanner */;
+			targetProxy = A00000000000000000000070 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		41C9AC47F7DC397DAACEC46B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6F45B6KF7D;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = CollectibleScanner;
+			};
+			name = Debug;
+		};
+		550417E3BDDD6E8D56184430 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6F45B6KF7D;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = CollectibleScanner;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A00000000000000000000017 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C0FF1CE0000000000000A001 /* App.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_ENTITLEMENTS = CollectibleScanner/CollectibleScanner.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"CollectibleScanner/Preview Content/Preview Assets.xcassets\"";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = CollectibleScanner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A00000000000000000000018 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C0FF1CE0000000000000A001 /* App.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_ENTITLEMENTS = CollectibleScanner/CollectibleScanner.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"CollectibleScanner/Preview Content/Preview Assets.xcassets\"";
+				EXCLUDED_SOURCE_FILE_NAMES = "\"Preview Assets.xcassets\"";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = CollectibleScanner/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		A00000000000000000000019 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 6F45B6KF7D;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A0000000000000000000001A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 6F45B6KF7D;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A0000000000000000000006D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectibleScanner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CollectibleScanner";
+			};
+			name = Debug;
+		};
+		A0000000000000000000006E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.johan.collectiblescanner.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectibleScanner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CollectibleScanner";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		80A0ED72302F39AF5CBC6EE9 /* Build configuration list for PBXNativeTarget "CollectibleScannerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				550417E3BDDD6E8D56184430 /* Release */,
+				41C9AC47F7DC397DAACEC46B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A00000000000000000000015 /* Build configuration list for PBXNativeTarget "CollectibleScanner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A00000000000000000000017 /* Debug */,
+				A00000000000000000000018 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A00000000000000000000016 /* Build configuration list for PBXProject "CollectibleScanner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A00000000000000000000019 /* Debug */,
+				A0000000000000000000001A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0000000000000000000006C /* Build configuration list for PBXNativeTarget "CollectibleScannerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0000000000000000000006D /* Debug */,
+				A0000000000000000000006E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		04AA7AB12F37E3F900893325 /* XCRemoteSwiftPackageReference "purchases-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.58.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		04AA7AB22F37E3F900893325 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 04AA7AB12F37E3F900893325 /* XCRemoteSwiftPackageReference "purchases-ios" */;
+			productName = RevenueCat;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = A00000000000000000000001 /* Project object */;
+}

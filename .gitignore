@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Secrets
+.env
+*.p8
+*.p12
+*.mobileprovision
+
+# Misc
+*.log
+.swiftpm/
+
+# Local Xcode build output (xcodebuild -derivedDataPath .derived)
+.derived/
+
+# fastlane snapshot intermediate (screenshots/generate.sh copies into screenshots/raw/)
+screenshots/.snapshot/
+fastlane/report.xml
+fastlane/test_output/
+
+# Local secrets (see Config/Secrets.example.xcconfig)
+Config/Secrets.xcconfig
